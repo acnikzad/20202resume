@@ -22,82 +22,20 @@
                   <a class="nav-link plr-8" href="#Home">Home <span class="sr-only">(current)</span></a>
                 </li>
                 <li class="nav-item">
-                  <a class="nav-link plr-8" href="#About">about us</a>
+                  <a class="nav-link plr-8" href="#Portfolio">Portfolio</a>
                 </li>
                 <li class="nav-item">
-                  <a class="nav-link plr-8" href="#Service">services</a>
+                  <a class="nav-link plr-8" href="#About">About Me</a>
                 </li>
                 <li class="nav-item">
-                  <a class="nav-link plr-8" href="#Team">team</a>
-                </li>
-                <li class="nav-item">
-                  <a class="nav-link plr-8" href="#Portfolio">portfolio</a>
-                </li>
-                <li class="nav-item">
-                  <a class="nav-link plr-8" href="#Testimonial">testimonials</a>
-                </li>
-                <li class="nav-item">
-                  <a class="nav-link plr-8" href="#PricingTable">pricing table</a>
-                </li>
-                <li class="nav-item">
-                  <a class="nav-link plr-8" href="#Blog">blog</a>
-                </li>
-                <li class="nav-item">
-                  <a class="nav-link plr-8" href="#Contact">contant</a>
+                  <a class="nav-link plr-8" href="#Contact">Contact</a>
                 </li>
               </ul>
             </div>
           </nav>
-          <!-- menuSocialNetworks -->
+<!-- menuSocialNetworks -->
           <ul class="list-unstyled mb-0 d-flex menuSocialNetworks pl-xl-4">
-            <li><a href="javascript:void(0);" class="headFormBtn searchOpener"><i class="fas fa-search"></i></a></li>
-            <li class="position-relative">
-              <a href="javascript:void(0);" class="cartOpener"><i class="fas fa-shopping-cart"></i> <span class="icon fwSemibold fontPoppins">3</span></a>
-              <!-- dropSub -->
-              <div class="dropSub position-absolute">
-                <!-- sideWidget -->
-                <div class="sideWidget pt-6 pl-6 pb-6 pr-6">
-                  <!-- cartRow -->
-                  <div class="cartRow d-flex position-relative mb-6">
-                    <a href="javascript:void(0);" class="img"><img src="images/img42.jpg" alt="image description" class="img-fluid"></a>
-                    <div class="txtDescrp pl-3 mt-n1">
-                      <span class="title fwSemibold fontPoppins d-block text-white text-uppercase mb-1"><a href="javascript:void(0);">Marine Design <br class="d-block">T-shirt</a></span>
-                      <span class="price fontRoboto d-block">$ 19.00</span>
-                    </div>
-                    <a href="javascript:void(0);" class="position-absolute fa fa-times"></a>
-                  </div>
-                  <!-- cartRow -->
-                  <div class="cartRow d-flex position-relative mb-6">
-                    <a href="javascript:void(0);" class="img"><img src="images/img43.jpg" alt="image description" class="img-fluid"></a>
-                    <div class="txtDescrp pl-3 mt-n1">
-                      <span class="title fwSemibold fontPoppins d-block text-white text-uppercase mb-1"><a href="javascript:void(0);">Draped Neck <br class="d-block">Jacket</a></span>
-                      <span class="price fontRoboto d-block">$ 41.00</span>
-                    </div>
-                    <a href="javascript:void(0);" class="position-absolute fa fa-times"></a>
-                  </div>
-                  <!-- cartRow -->
-                  <div class="cartRow d-flex position-relative mb-6">
-                    <a href="javascript:void(0);" class="img"><img src="images/img44.jpg" alt="image description" class="img-fluid"></a>
-                    <div class="txtDescrp pl-3 mt-n1">
-                      <span class="title fwSemibold fontPoppins d-block text-white text-uppercase mb-1"><a href="javascript:void(0);">Long Pleated <br class="d-block">Jacket</a></span>
-                      <span class="price fontRoboto d-block">$ 52.00</span>
-                    </div>
-                    <a href="javascript:void(0);" class="position-absolute fa fa-times"></a>
-                  </div>
-                  <!-- cartRowTotal -->
-                  <div class="cartRowTotal d-flex justify-content-between mb-3">
-                    <span class="totalTxt fwSemibold fontPoppins text-white text-uppercase">Subtotal:</span>
-                    <span class="totalPrice fwSemibold fontPoppins text-white text-uppercase">$ 112.00</span>
-                  </div>
-                  <span class="hr d-block mb-4"></span>
-                  <!-- cartBtnRow -->
-                  <div class="cartBtnRow d-flex justify-content-between">
-                    <a href="javascript:void(0);" class="btn btn-white text-uppercase fwSemibold fontPoppins px-xl-4">View Cart</a>
-                    <a href="javascript:void(0);" class="btn btn-white text-uppercase fwSemibold fontPoppins px-xl-4">Checkout</a>
-                  </div>
-                </div>
-              </div>
-            </li>
+          
             <li class="d-none d-lg-inline-block position-relative">
               <a href="javascript:void(0);" class="sideOpener"><i class="fas fa-bars"></i></a>
               <!-- sideNavBar -->
