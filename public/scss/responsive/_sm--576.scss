@@ -1,0 +1,133 @@
+@include media-breakpoint-up(sm){
+	h1, .h1{
+		font-size: 44px;
+		line-height: 50px;
+	}
+
+	.heading3{
+		font-size: 36px;
+		line-height: 40px;
+	}
+
+	.bannerWrap{
+
+		&.bannerWrapII{
+			min-height: 400px;
+		}
+
+		.caption{
+			font-size: 18px;
+			line-height: 24px;
+		}
+	}
+
+	.fsLarger {
+		font-size: 90px;
+		line-height: 90px;
+	}
+
+	.abUsSec{
+		font-size: 16px;
+		line-height: 28px;
+	}
+
+	.progressCounter{
+		font-size: 14px;
+
+		li{
+			min-width: 25%;
+		}
+
+		li + li{
+			border-left: 1px solid $gray-400;
+			border-top-width: 0;
+		}
+	}
+
+	.customerService{
+		min-height: 280px;
+	}
+
+	.cstmrHolder{
+		font-size: 22px;
+		line-height:  32px;
+	}
+
+	.gridFilterWrap{
+
+		.element-item{
+			width: 50%;
+
+			&.item{
+				width: 50%;
+			}
+
+			&.itemIII{
+				width: 50%;
+			}
+
+			&.itemIV{
+				width: 50%;
+			}
+
+			&.itemV{
+				width: 50%;
+			}
+
+			&:hover{
+
+				.slideRight{
+					transform: translateX(17px);
+				}
+			}
+		}
+	}
+
+	.cHBlock{
+
+		.h3{
+			font-size: 20px;
+		}
+	}
+
+	.mapHolder{
+		height: 320px;
+	}
+
+	.contactForm{
+
+		textarea{
+
+			&.form-control{
+				min-height: 220px;
+			}
+		}
+	}
+
+	.overTextSlide{
+		width: 205px;
+	}
+
+	.slideBottom{
+		bottom: -11px;
+	}
+
+	.slideRight {
+		bottom: 17px;
+	}
+
+	.overbgBTxt{
+		min-width: 214px;
+		bottom: 1%;
+		left: 4%;
+
+		.h4,
+		.designType{
+			padding-top: 9px;
+			padding-bottom: 9px;
+		}
+		.designType{
+			padding-top: 9px;
+		}
+	}
+}

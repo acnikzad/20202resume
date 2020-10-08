@@ -1,0 +1,93 @@
+/*
+Theme Name: Kyata | Multipurpose HTML5 Template
+Author: Htmlbeans
+Author URI: https://themeforest.net/user/htmlbeans
+Version: 1
+Description: Base theme for HTML5
+Text Domain: base
+Tags: one-column, two-columns, three-columns
+Theme URI: http://www.htmlbeans.com/html/kyata-multipurpose/
+*/
+
+
+/* ---------------------------------------------------------
+
+1	 fixed-position/.fixed-position
+2	 pageHeader/#pageHeader
+3	 navOpener/.navOpener
+4	 menuHolder/.menuHolder
+5	 navCollapse/.navCollapse
+6	 menuSocialNetworks/.menuSocialNetworks
+7	 sideActive/.sideActive
+8	 cartActive/.cartActive
+9	 sideOver/.sideOver
+10	 sideNavBar/.sideNavBar
+11	 sideNav/.sideNav
+12	 dropSub/.dropSub
+13	 sideWidget/.sideWidget
+14	 searchPopup/.searchPopup
+15	 searchActive/.searchActive
+16	 pageWrapper/#pageWrapper
+17	 bgCover/.bgCover
+18	 heading/.heading
+19	 heading2/.heading2
+20	 bannerWrap/.bannerWrap
+21	 bannerSlide/.bannerSlide
+22	 bdrBtmImg/.bdrBtmImg
+23	 abUsSec/.abUsSec
+24	 agnBlock/.agnBlock
+25	 progressCounter/.progressCounter
+26	 sBlock/.sBlock
+27	 overlay/.overlay
+28	 teamBlock/.teamBlock
+29	 teamSlider/.teamSlider
+30	 customerService/.customerService
+31	 cstmrHolder/.cstmrHolder
+32	 customerService/.customerService
+33	 filterNav/.filterNav
+34	 overTxt/.overTxt
+35	 overbgBTxt/.overbgBTxt
+36	 gridFilterWrap/.gridFilterWrap
+37	 btn-white/.btn-white
+38	 cHBlock/.cHBlock
+39	 clntBlock/.clntBlock
+40	 ratingList/.ratingList
+41	 mapHolder/.mapHolder
+42	 contactForm/.contactForm
+43	 twitHolder/.twitHolder
+44	 blogHolder/.blogHolder
+45	 newsDescript/.newsDescript
+46	 pricePlanList/.pricePlanList
+47	 pricePlan/.pricePlan
+48	 PlanWrap/.PlanWrap
+49	 headerPlan/.headerPlan
+50	 planCheckList/.planCheckList
+51	 planBtnList/.planBtnList
+52	 progressBar/.progressBar
+53	 ftContctHolder/.ftContctHolder
+54	 postBlock/.postBlock
+55	 subcribeForm/.subcribeForm
+56	 fNav/.fNav
+57	 instImgWrap/.instImgWrap
+58	 instTxt/.instTxt
+59	 footerArea/.footerArea
+60	 ftSocialNetworks/.ftSocialNetworks
+61	 mfp-title/.mfp-title
+
+--------------------------------------------------------*/
+
+
+@import "vendor/bootstrap/functions";
+@import "vendor/bootstrap/variables";
+
+@import "customVariables";
+
+@import "vendor/bootstrap/mixins";
+@import "base/customMixinx";
+@import "vendor/icons";
+
+@import "vendor/slick-slider";
+
+@import "all";
+
+@import 'animations';

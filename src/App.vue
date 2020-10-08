@@ -1,32 +1,199 @@
 <template>
   <div id="app">
-    <div id="nav">
-      <router-link to="/">Home</router-link> |
-      <router-link to="/about">About</router-link>
-    </div>
+    <header id="pageHeader" class="position-absolute">
+      <div class="d-flex align-items-center mx-3 mx-md-6 py-3 py-lg-0">
+        <!-- mainLogo -->
+        <div class="logo mt-n1">
+          <a href="homepage.html">
+            <h3>Aria Nikzad</h3>
+          </a>
+        </div>
+        <!-- menuHolder -->
+        <div class="d-flex menuHolder justify-content-end align-items-center flex-grow-1">
+          <!-- navbar -->
+          <nav class="navbar navbar-expand-lg navHolder fwSemibold navbar-light p-0 mr-3 mr-lg-6 mr-xl-7 fontPoppins position-static">
+            <button class="navbar-toggler navOpener" type="button" data-toggle="collapse" data-target="#navBarOpener" aria-controls="navBarOpener" aria-expanded="false" aria-label="Toggle navigation">
+              <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse navCollapse mainNav" id="navBarOpener">
+              <!-- navbar-nav -->
+              <ul class="navbar-nav mr-auto text-uppercase">
+                <li class="nav-item">
+                  <a class="nav-link plr-8" href="#Home">Home <span class="sr-only">(current)</span></a>
+                </li>
+                <li class="nav-item">
+                  <a class="nav-link plr-8" href="#About">about us</a>
+                </li>
+                <li class="nav-item">
+                  <a class="nav-link plr-8" href="#Service">services</a>
+                </li>
+                <li class="nav-item">
+                  <a class="nav-link plr-8" href="#Team">team</a>
+                </li>
+                <li class="nav-item">
+                  <a class="nav-link plr-8" href="#Portfolio">portfolio</a>
+                </li>
+                <li class="nav-item">
+                  <a class="nav-link plr-8" href="#Testimonial">testimonials</a>
+                </li>
+                <li class="nav-item">
+                  <a class="nav-link plr-8" href="#PricingTable">pricing table</a>
+                </li>
+                <li class="nav-item">
+                  <a class="nav-link plr-8" href="#Blog">blog</a>
+                </li>
+                <li class="nav-item">
+                  <a class="nav-link plr-8" href="#Contact">contant</a>
+                </li>
+              </ul>
+            </div>
+          </nav>
+          <!-- menuSocialNetworks -->
+          <ul class="list-unstyled mb-0 d-flex menuSocialNetworks pl-xl-4">
+            <li><a href="javascript:void(0);" class="headFormBtn searchOpener"><i class="fas fa-search"></i></a></li>
+            <li class="position-relative">
+              <a href="javascript:void(0);" class="cartOpener"><i class="fas fa-shopping-cart"></i> <span class="icon fwSemibold fontPoppins">3</span></a>
+              <!-- dropSub -->
+              <div class="dropSub position-absolute">
+                <!-- sideWidget -->
+                <div class="sideWidget pt-6 pl-6 pb-6 pr-6">
+                  <!-- cartRow -->
+                  <div class="cartRow d-flex position-relative mb-6">
+                    <a href="javascript:void(0);" class="img"><img src="images/img42.jpg" alt="image description" class="img-fluid"></a>
+                    <div class="txtDescrp pl-3 mt-n1">
+                      <span class="title fwSemibold fontPoppins d-block text-white text-uppercase mb-1"><a href="javascript:void(0);">Marine Design <br class="d-block">T-shirt</a></span>
+                      <span class="price fontRoboto d-block">$ 19.00</span>
+                    </div>
+                    <a href="javascript:void(0);" class="position-absolute fa fa-times"></a>
+                  </div>
+                  <!-- cartRow -->
+                  <div class="cartRow d-flex position-relative mb-6">
+                    <a href="javascript:void(0);" class="img"><img src="images/img43.jpg" alt="image description" class="img-fluid"></a>
+                    <div class="txtDescrp pl-3 mt-n1">
+                      <span class="title fwSemibold fontPoppins d-block text-white text-uppercase mb-1"><a href="javascript:void(0);">Draped Neck <br class="d-block">Jacket</a></span>
+                      <span class="price fontRoboto d-block">$ 41.00</span>
+                    </div>
+                    <a href="javascript:void(0);" class="position-absolute fa fa-times"></a>
+                  </div>
+                  <!-- cartRow -->
+                  <div class="cartRow d-flex position-relative mb-6">
+                    <a href="javascript:void(0);" class="img"><img src="images/img44.jpg" alt="image description" class="img-fluid"></a>
+                    <div class="txtDescrp pl-3 mt-n1">
+                      <span class="title fwSemibold fontPoppins d-block text-white text-uppercase mb-1"><a href="javascript:void(0);">Long Pleated <br class="d-block">Jacket</a></span>
+                      <span class="price fontRoboto d-block">$ 52.00</span>
+                    </div>
+                    <a href="javascript:void(0);" class="position-absolute fa fa-times"></a>
+                  </div>
+                  <!-- cartRowTotal -->
+                  <div class="cartRowTotal d-flex justify-content-between mb-3">
+                    <span class="totalTxt fwSemibold fontPoppins text-white text-uppercase">Subtotal:</span>
+                    <span class="totalPrice fwSemibold fontPoppins text-white text-uppercase">$ 112.00</span>
+                  </div>
+                  <span class="hr d-block mb-4"></span>
+                  <!-- cartBtnRow -->
+                  <div class="cartBtnRow d-flex justify-content-between">
+                    <a href="javascript:void(0);" class="btn btn-white text-uppercase fwSemibold fontPoppins px-xl-4">View Cart</a>
+                    <a href="javascript:void(0);" class="btn btn-white text-uppercase fwSemibold fontPoppins px-xl-4">Checkout</a>
+                  </div>
+                </div>
+              </div>
+            </li>
+            <li class="d-none d-lg-inline-block position-relative">
+              <a href="javascript:void(0);" class="sideOpener"><i class="fas fa-bars"></i></a>
+              <!-- sideNavBar -->
+              <div class="sideNavBar position-fixed">
+                <!-- sideNav -->
+                <div class="sideNav px-10 pt-20 pb-6">
+                  <a href="javascript:void(0);" class="sideClose position-absolute mb-3"><i class="fa fa-times"></i></a>
+                  <h2 class="sideLogo mb-7 fontPoppins fwSemibold text-white text-uppercase"><a href="javascript:void(0);">Kyata</a></h2>
+                  <p class="mb-9">We tackle business problems with intelligence. We use cutting-edge tech and cutting-edge thinking to bring brands to life online and direct consumer behavior.</p>
+                  <span class="hr d-block mb-10"></span>
+                  <h6 class="h6 fwSemibold text-white text-uppercase mb-5 mb-lg-7">Our Services</h6>
+                  <ul class="list-unstyled mb-10 fNav fontRoboto">
+                    <li><a class="position-relative pl-3" href="javascript:void(0);">Interface Design</a></li>
+                    <li><a class="position-relative pl-3" href="javascript:void(0);">User Experience</a></li>
+                    <li><a class="position-relative pl-3" href="javascript:void(0);">Mobile Application</a></li>
+                    <li><a class="position-relative pl-3" href="javascript:void(0);">Web Development</a></li>
+                    <li><a class="position-relative pl-3" href="javascript:void(0);">Wireframes Design</a></li>
+                    <li><a class="position-relative pl-3" href="javascript:void(0);">Branding &amp; Identity</a></li>
+                  </ul>
+                  <span class="hr d-block mb-9"></span>
+                  <h6 class="h6 fwSemibold text-center text-sm-left text-white text-uppercase mb-5 mb-lg-7"> Instagram Widget</h6>
+                  <ul class="list-unstyled instImgWrap mb-4 d-flex flex-wrap">
+                    <li>
+                      <a href="images/img09.jpg" data-fancybox="gallery" class="position-relative d-block">
+                        <img src="images/img09.jpg" class="img-fluid" alt="image description">
+                      </a>
+                    </li>
+                    <li>
+                      <a href="images/img10.jpg" data-fancybox="gallery" class="position-relative d-block">
+                        <img src="images/img10.jpg" class="img-fluid" alt="image description">
+                      </a>
+                    </li>
+                    <li>
+                      <a href="images/img11.jpg" data-fancybox="gallery" class="position-relative d-block">
+                        <img src="images/img11.jpg" class="img-fluid" alt="image description">
+                      </a>
+                    </li>
+                    <li>
+                      <a href="images/img12.jpg" data-fancybox="gallery" class="position-relative d-block">
+                        <img src="images/img12.jpg" class="img-fluid" alt="image description">
+                      </a>
+                    </li>
+                    <li>
+                      <a href="images/img13.jpg" data-fancybox="gallery" class="position-relative d-block">
+                        <img src="images/img13.jpg" class="img-fluid" alt="image description">
+                      </a>
+                    </li>
+                    <li>
+                      <a href="images/img14.jpg" data-fancybox="gallery" class="position-relative d-block">
+                        <img src="images/img14.jpg" class="img-fluid" alt="image description">
+                      </a>
+                    </li>
+                    <li>
+                      <a href="images/img15.jpg" data-fancybox="gallery" class="position-relative d-block">
+                        <img src="images/img15.jpg" class="img-fluid" alt="image description">
+                      </a>
+                    </li>
+                    <li>
+                      <a href="images/img16.jpg" data-fancybox="gallery" class="position-relative d-block">
+                        <img src="images/img16.jpg" class="img-fluid" alt="image description">
+                      </a>
+                    </li>
+                  </ul>
+                  <span class="instTxt fontRoboto font-weight-normal d-block mb-16"><a href="javascript:void(0);"><i class="fab fa-instagram mr-xl-1"></i> Follow us in Instagram</a></span>
+                  <span class="ftTxt d-block">2019 © <a href="javascript:void(0);">Kyata Template.</a> All rights reserved.</span>
+                </div>
+              </div>
+            </li>
+          </ul>
+        </div>
+      </div>
+      <span class="sideOver"></span>
+    </header>
     <router-view/>
+<!-- footerArea -->
+    <footer class="footerArea py-5 py-md-6">
+      <div class="container">
+        <div class="row flex-row-reverse align-items-center">
+          <div class="col-12 col-sm-5">
+            <!-- ftSocialNetworks -->
+            <ul class="list-unstyled ftSocialNetworks d-flex justify-content-center justify-content-sm-end mb-2 mb-sm-0">
+              <li><a href="javascript:void(0);" class="fab fa-facebook-f"></a></li>
+              <li><a href="javascript:void(0);" class="fab fa-twitter"></a></li>
+              <li><a href="javascript:void(0);" class="fab fa-instagram"></a></li>
+              <li><a href="javascript:void(0);" class="fab fa-vimeo-v"></a></li>
+            </ul>
+          </div>
+          <div class="col-12 col-sm-7 text-center text-sm-left">
+            <span class="ftTxt d-block">2020 © <a href="homepage.html">Kyata Template.</a> All rights reserved.</span>
+          </div>
+        </div>
+      </div>
+    </footer>
   </div>
 </template>
 
 <style>
-#app {
-  font-family: Avenir, Helvetica, Arial, sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-  text-align: center;
-  color: #2c3e50;
-}
 
-#nav {
-  padding: 30px;
-}
-
-#nav a {
-  font-weight: bold;
-  color: #2c3e50;
-}
-
-#nav a.router-link-exact-active {
-  color: #42b983;
-}
 </style>

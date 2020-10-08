@@ -1,0 +1,96 @@
+@import "vendor/bootstrap/functions";
+@import "vendor/bootstrap/variables";
+
+@import "customVariables";
+@import "vendor/bootstrap/mixins";
+
+.btnTheme,
+.btnTheme:hover,
+.btnThemeOutline,
+.btnThemeOutline:hover,
+#pageHeader .navCollapse ul.kyNavbar .kyDropdownMenu,
+#pageHeader .navCollapse ul.kyNavbar .kyColumnDropdown,
+#pageHeader .navCollapse ul.kyNavbar .kyDropdownMenu .kydSubMenu,
+#pageHeader .navCollapse ul.kyNavbar .kyColumnDropdown .kydSubMenu,
+.dropdown-menu .dropdown-submenu .dropdown-menu,
+.planBtnList .btn-group,
+.customPriceRageForm .ui-widget-header{
+	border-color: $wpThemeColor;
+}
+
+.btnTheme,
+.btnThemeOutline:hover,
+.menuHolder .navCollapse .nav-item .nav-link:hover,
+.searchPopup .searchClose:hover span,
+.customerService.overlay::after,
+.cHBlock,
+.headerPlan::after,
+.headerPlan.hpBgActive,
+.headerPlan .btn:hover,
+.planBtnList .switch,
+.progressBar .over,
+.defaultPagination li a.active,
+.defaultPagination li a:hover,
+.defaultPagination li a:focus,
+.kyTagBtn:hover,
+.priceRange::-webkit-slider-thumb,
+.customPriceRageForm .ui-state-default,
+.customPriceRageForm .ui-widget-content .ui-state-default,
+.customPriceRageForm .ui-widget-header,
+.instImgWrap a::after{
+	background-color: $wpThemeColor;
+}
+
+.btnTheme:hover,
+.btnThemeOutline,
+.hTitleHeading,
+.ttTextHighlight,
+.menuHolder .navCollapse .nav-item .nav-link:hover,
+.menuSocialNetworks a:hover,
+.cartActive .cartOpener,
+.cartActive .icon,
+.sideNav .fNav a:hover,
+.sideNav .fNav a:hover::before,
+.searchPopup .fa-search:hover,
+#pageHeader .navCollapse ul.kyNavbar .kyDropdownMenu .kyDropdownItem:hover,
+#pageHeader .navCollapse ul.kyNavbar .kyDropdownMenu .kySubDropdownItem:hover,
+#pageHeader .navCollapse ul.kyNavbar .kyColumnDropdown .kyDropdownItem:hover,
+#pageHeader .navCollapse ul.kyNavbar .kyColumnDropdown .kySubDropdownItem:hover,
+#pageHeader .navCollapse ul.kyNavbar .nav-item:hover,
+.agnBlock .ico:hover,
+.sBlock .ico,
+.sBlock a:hover,
+.teamBlock .textDetail a:hover,
+.gridFilterWrap .h4 a:hover,
+.btn-white,
+.cHBlock .btn:hover,
+.clntBlock .author a:hover,
+.ratingList a:hover,
+.blogHolder .ico:hover,
+.descriptionList a:hover,
+.newsDescript .h4 a:hover,
+.headerPlan .hpTitle,
+.planCheckList .icn,
+.planBtnList .labelBtn,
+.cbbPageList > li a:hover,
+.portfolioItem .h4 a:hover,
+.postMeta li a:hover,
+.blogSidebar .blogPopularPostSec .postBlock a:hover,
+.authorPost h5 a:hover,
+.autPostSocialLinks a:hover,
+.blogPostCommentList .commentsSocialList a,
+.prodPostMeta .h4 a:hover,
+.customPriceRageForm .ui-state-default,
+.customPriceRageForm .ui-widget-content .ui-state-default,
+.customPriceRageForm .ui-widget-header,
+.ftContctHolder a:hover,
+.postBlock a:hover,
+.fNav a:hover,
+.fNav a:hover::before,
+.instTxt a:hover,
+.footerArea .ftTxt a:hover{
+	color: $wpThemeColor;
+}
+
+
+.pricePlan.active .tag:after{ border-bottom-color:  $wpThemeColor; }

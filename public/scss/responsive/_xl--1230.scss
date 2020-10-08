@@ -1,0 +1,79 @@
+@include media-breakpoint-up(xl) {
+	.navCollapse{
+
+		li + li{
+			margin-left: 12px;
+		}
+	}
+
+	.menuSocialNetworks{
+		margin-right: -9px;
+		margin-left: -9px;
+
+		> li{
+			padding-left: 11px;
+			padding-right: 9px;
+		}
+	}
+
+	#pageHeader{
+
+		.navCollapse{
+
+			.kyColumnDropdown {
+				width: 1170px;
+				left: 19px;
+				transform-origin: 0 0;
+				transform: rotateX(-90deg) translateX(-829px);
+				
+				&.show {
+					opacity: 1;
+					visibility: visible;
+					transform: rotateX(0deg) translateX(-829px);
+				}
+			}
+		}
+	}
+
+	h1, .h1{
+		font-size: 72px;
+		line-height: 80px;
+	}
+
+	.gridFilterWrap{
+
+		.element-item{
+
+			&.itemV{
+				width: 20%;
+			}
+		}
+	}
+
+	.fsLarger {
+		font-size: 200px;
+		line-height: 200px;
+	}
+
+	.mapHolder{
+		height: 450px;
+	}
+
+	.twitHolder{
+		min-height: 493px;
+	}
+
+	.subcribeForm{
+
+		.input-group{
+
+			.btn{
+				min-width: 177px;
+			}
+		}
+	}
+
+	.overTextSlide{
+		width: 313px;
+	}
+}

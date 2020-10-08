@@ -1,0 +1,126 @@
+@include media-breakpoint-up(md) {
+
+	h1, .h1{
+		font-size: 54px;
+		line-height: 60px;
+	}
+
+	h2, .h2{
+		font-size: 30px;
+		line-height: 34px;
+	}
+
+	.progressCounter{
+		font-size: 16px;
+	}
+
+	.customerService{
+		min-height: 320px;
+	}
+
+	.fsLarger {
+		font-size: 120px;
+		line-height: 120px;
+	}
+
+	.gridFilterWrap{
+
+		.element-item{
+
+			&.itemIV{
+				width: 33.333%;
+			}
+
+			&.itemV{
+				width: 33.333%;
+			}
+
+			&:hover{
+
+				.slideRight{
+					transform: translateX(27px);
+				}
+			}
+		}
+	}
+
+	.cHBlock{
+
+		.btn{
+			min-width: 158px;
+		}
+	}
+
+	.mapHolder{
+		height: 370px;
+	}
+
+	.contactForm{
+
+		textarea{
+
+			&.form-control{
+				min-height: 260px;
+			}
+		}
+	}
+
+	.twitHolder{
+		min-height: 420px;
+
+		.ico{
+			font-size: 44px;
+			line-height: 50px;
+		}
+	}
+
+	.headerPlan{
+
+		.btn{
+			min-width: 156px;
+			padding-top: 16px;
+			padding-bottom: 16px;
+		}
+	}
+
+	.planCheckList{
+		font-size: 14px;
+
+		li + li{
+			padding-top: 10px;
+		}
+	}
+
+	.overTextSlide{
+		width: 270px;
+	}
+
+	.slideBottom{
+		bottom: 0;
+	}
+
+	.slideRight {
+		bottom: 24px;
+	}
+
+	.overbgBTxt {
+		min-width: 220px;
+		bottom: 5%;
+		left: 7%;
+
+		.h4,
+		.designType {
+			padding-top: 11px;
+			padding-bottom: 11px;
+		}
+
+		.designType {
+			padding-top: 15px;
+		}
+	}
+
+	.portfolioPagination {
+		font-size: 16px;
+		line-height: 20px;
+	}
+}

@@ -1,0 +1,186 @@
+@include media-breakpoint-up(lg) {
+	.searchPopup{
+
+		.frame{
+			padding: 0;
+		}
+
+		form{
+			width: 740px;
+		}
+	}
+
+	#pageHeader{
+
+		.navCollapse{
+
+			.nav-item{
+
+				.nav-link:hover{
+					background-color: transparent;
+				}
+			}
+
+			.kyDropdownMenu {
+				width: 230px;
+				top: 74px;
+				left: -33px;
+				opacity: 0;
+				visibility: hidden;
+				display: block;
+				transform-origin: 0 0;
+				transform: rotateX(-90deg);
+				border-bottom: 2px solid #eb2c25;
+
+				.kyDropdownSubMenu {
+
+					.dropdown-menu {
+						width: 230px;
+						top: -22px;
+						left: 205px;
+						border-bottom: 2px solid $red;
+					}
+				}
+
+				&.show {
+					opacity: 1;
+					visibility: visible;
+					transform: rotateX(0deg);
+				}
+			}
+
+			.kyColumnDropdown {
+				width: 930px;
+				left: 26px;
+				transition: all 0.35s linear 0s;
+				opacity: 0;
+				visibility: hidden;
+				display: block;
+				transform-origin: 0 0;
+				transform: rotateX(-90deg) translateX(-636px);
+
+				&.show {
+					opacity: 1;
+					visibility: visible;
+					transform: rotateX(0deg) translateX(-636px);
+				}
+			}
+
+			.nav-link {
+				padding-bottom: 30px;
+				padding-top: 30px;
+				&.plr-8{
+					padding-left: 8px;
+					padding-right: 8px;
+				}
+			}
+		}
+	}
+
+	.bannerWrap {
+
+		p {
+			font-size: 18px;
+			line-height: 22px;
+		}
+	}
+
+	.dropdown-menu{
+
+		.dropdown-submenu{
+
+			.dropdown-menu{
+				top: 14px;
+				left: 205px;
+				margin-left: .1rem;
+				margin-right: .1rem;
+				background-color: $gray-900;
+				border-radius: 0;
+				width: 230px;
+				border-bottom-width: 2px;
+				border-bottom-style: solid;
+			}
+		}
+	}
+
+	h1, .h1{
+		font-size: 62px;
+		line-height: 70px;
+	}
+
+	.customerService{
+		min-height: 403px;
+	}
+
+	.cstmrHolder{
+		font-size: 24px;
+		line-height:  39px;
+	}
+
+	.gridFilterWrap{
+
+		.element-item{
+			width: 33.333%;
+
+			&.item{
+				width: 66.666%;
+			}
+
+			&.itemIV{
+				width: 25%;
+			}
+
+			&.itemV{
+				width: 25%;
+			}
+		}
+	}
+
+	.fsLarger {
+		font-size: 150px;
+		line-height: 150px;
+	}
+
+	.mapHolder{
+		height: 420px;
+	}
+
+	.subcribeForm{
+
+		.input-group{
+
+			.btn{
+				min-width: 140px;
+			}
+		}
+	}
+
+	.proImgSliderNav {
+
+		.slick-list {
+
+			.slick-slide {
+
+				margin-right: 30px;
+			}
+		}
+	}
+
+	.dropSub {
+		padding-top: 30px;
+	}
+
+	.overTextSlide {
+		width: 230px;
+	}
+
+	.headerLight {
+
+		.navCollapse {
+
+			.nav-link {
+				color: $black;
+			}
+		}
+	}
+}
