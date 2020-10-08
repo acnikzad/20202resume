@@ -14905,7 +14905,7 @@ a.text-dark:hover, a.text-dark:focus {
 
   .hero-pic {
     display: inline-block;
-    width: 40%;
+    width: 50%;
     text-align: right;
     border: solid #9FA8A5;
     border-radius: 50%;
@@ -14920,4 +14920,69 @@ a.text-dark:hover, a.text-dark:focus {
   background-attachment: fixed;
 }
 
+.hero {
+  margin-top: 100px;
+}
 
+.hero-text-box h1 {
+  padding-bottom: -5px;
+}
+
+.hero-pic {
+  display: inline-block;
+  width: 25%;
+  height: 25%;
+  text-align: center;
+  border: solid #9FA8A5;
+  border-radius: 50%;
+  transition: transform 0.4s
+}
+
+.hero-pic:hover {
+  border: solid #6D7B3C;
+  border-radius: 50%;
+  transform: scale(1.05)
+}
+
+.hero-text {
+  color: #CDC9C6;
+  text-align: left;
+  padding-left: 10%;
+}
+
+.hero-boxes {
+  margin-top: 30px;
+}
+
+.hero-boxes:first-child {
+  text-align: right;
+  padding-right: 3%;
+}
+
+.hero-boxes:last-child {
+  text-align:;
+  padding-right: 3%;
+}
+
+.hero-margin {
+  margin-right: 15%;
+  margin-left: 15%;
+}
+
+/*------- ICONS -------*/
+
+.icon-small i {
+  display: inline-block;
+  width: 50px;
+  text-align: center;
+  color: #9FA8A5;
+  font-size: 60%;
+  opacity: .4;
+  transition: transform 0.4s;
+}
+
+.icon-small i:hover {
+  opacity: 1;
+  color: #6D7B3C;
+  transform: scale(1.25);
+}
