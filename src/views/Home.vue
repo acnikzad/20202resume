@@ -53,11 +53,9 @@
             <div class="col-12">
               <ul class="filterNav filter-button-group list-unstyled fwSemibold fontPoppins text-uppercase mb-5 mb-xl-7 d-flex flex-wrap justify-content-center">
                 <li class="nav-item mb-2"><a class="filterBtn is-checked" data-filter="*" href="javascript:void(0);">all</a></li>
-                <li class="nav-item mb-2"><a class="filterBtn" data-filter=".transition" href="javascript:void(0);">branding</a></li>
-                <li class="nav-item mb-2"><a class="filterBtn" data-filter=".design" href="javascript:void(0);">design</a></li>
-                <li class="nav-item mb-2"><a class="filterBtn" data-filter=".photo" href="javascript:void(0);">photo</a></li>
-                <li class="nav-item mb-2"><a class="filterBtn" data-filter=".web" href="javascript:void(0);">web</a></li>
-                <li class="nav-item mb-2"><a class="filterBtn" data-filter=".app" href="javascript:void(0);">app</a></li>
+                <li class="nav-item mb-2"><a class="filterBtn" data-filter=".project" href="javascript:void(0);">projects</a></li>
+                <li class="nav-item mb-2"><a class="filterBtn" data-filter=".paid" href="javascript:void(0);">paid projects</a></li>
+                <li class="nav-item mb-2"><a class="filterBtn" data-filter=".entreprenuerial" href="javascript:void(0);">entreprenuerial</a></li>
               </ul>
             </div>
           </div>
@@ -65,7 +63,7 @@
 <!-- gridFilterWrap -->
         <div class="gridFilterWrap d-flex flex-wrap">
 <!-- CLS -->
-          <div class="element-item itemIV overflow-hidden transition web" data-category="transition web">
+          <div class="element-item itemIV overflow-hidden transition paid" data-category="transition paid">
             <div class="d-block imgHolder w-100">
               <a href="images/CLS.jpg.jpg" data-fancybox="gallery" data-caption="Mockup Can Design"><img src="../../public/images/CLS.jpg" class="img-fluid" alt="image description"></a>
               <div class="overbgBTxt position-absolute">
@@ -77,7 +75,7 @@
             </div>
           </div>
 <!-- BlockHound -->
-          <div class="element-item itemIV overflow-hidden transition web" data-category="transition web">
+          <div class="element-item itemIV overflow-hidden transition project" data-category="transition project">
             <div class="d-block imgHolder w-100">
               <a href="../../public/images/BHMap.jpg" data-fancybox="gallery" data-caption="Mockup Can Design"><img src="../../public/images/BHMap.jpg" class="img-fluid" alt="image description"></a>
               <div class="overbgBTxt position-absolute">
@@ -89,7 +87,7 @@
             </div>
           </div>
 <!-- Christoffersen Collection -->
-          <div class="element-item itemIV overflow-hidden transition web" data-category="transition web">
+          <div class="element-item itemIV overflow-hidden transition paid" data-category="transition paid">
             <div class="d-block imgHolder w-100">
               <a href="../../public/images/CC.jpg" data-fancybox="gallery" data-caption="Mockup Can Design"><img src="../../public/images/CC.jpg" class="img-fluid" alt="image description"></a>
               <div class="overbgBTxt position-absolute">
@@ -101,25 +99,25 @@
             </div>
           </div>
   <!-- Corsega Eyewear -->
-          <div class="element-item itemIV overflow-hidden transition web" data-category="transition web">
+          <div class="element-item itemIV overflow-hidden transition entreprenuerial" data-category="transition entreprenuerial">
             <div class="d-block imgHolder w-100">
               <a href="../../public/images/Blue2.jpg" data-fancybox="gallery" data-caption="Mockup Can Design"><img src="../../public/images/Blue2.jpg" class="img-fluid" alt="image description"></a>
               <div class="overbgBTxt position-absolute">
                 <h3>
                   <strong class="fwSemibold px-3 d-inline-block h4 mb-0 d-block"><a href="javascript:void(0);">Corsega Eyewear</a></strong>
-                  <strong class="fontRoboto px-3 d-inline-block designType text-white">Paid Project</strong>
+                  <strong class="fontRoboto px-3 d-inline-block designType text-white">Entrepreneurial Project</strong>
                 </h3>
               </div>
             </div>
           </div>
-          <!-- element-item -->
-          <div class="element-item itemIV overflow-hidden transition web" data-category="transition web">
+<!-- 4x4 Teardrops -->
+          <div class="element-item itemIV overflow-hidden transition paid" data-category="transition paid">
             <div class="d-block imgHolder w-100">
-              <a href="images/img13.jpg" data-fancybox="gallery" data-caption="Mockup Can Design"><img src="images/img13.jpg" class="img-fluid" alt="image description"></a>
+              <a href="../../public/images/XTR1.jpg" data-fancybox="gallery" data-caption="Mockup Can Design"><img src="../../public/images/XTR1.jpg" class="img-fluid" alt="image description"></a>
               <div class="overbgBTxt position-absolute">
                 <h3>
-                  <strong class="fwSemibold px-3 d-inline-block h4 d-block mb-0"><a href="javascript:void(0);">Mockup Can Design</a></strong>
-                  <strong class="fontRoboto px-3 d-inline-block designType text-white">Design - Branding</strong>
+                  <strong class="fwSemibold px-3 d-inline-block h4 d-block mb-0"><a href="javascript:void(0);">4X4 Teardrops</a></strong>
+                  <strong class="fontRoboto px-3 d-inline-block designType text-white">Paid Project</strong>
                 </h3>
               </div>
             </div>
@@ -162,18 +160,14 @@
           </div>
         </div>
       </section>
+
   </div>
 
 </template>
 
 <script>
-// @ is an alias to /src
-import HelloWorld from '@/components/HelloWorld.vue'
 
-export default {
-  name: 'Home',
-  components: {
-    HelloWorld
-  }
-}
+// export default {
+//   modal:('#myModal').on('shown.bs.modal', function() {('#myInput').trigger('focus');})
+// };
 </script>
