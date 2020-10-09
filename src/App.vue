@@ -113,19 +113,23 @@
 <!-- footerArea -->
     <footer class="footerArea py-5 py-md-6">
       <div class="container">
-        <div class="row flex-row-reverse align-items-center">
-          <div class="col-12 col-sm-5">
-            <!-- ftSocialNetworks -->
-            <ul class="list-unstyled ftSocialNetworks d-flex justify-content-center justify-content-sm-end mb-2 mb-sm-0">
-              <li><a href="javascript:void(0);" class="fab fa-facebook-f"></a></li>
-              <li><a href="javascript:void(0);" class="fab fa-twitter"></a></li>
-              <li><a href="javascript:void(0);" class="fab fa-instagram"></a></li>
-              <li><a href="javascript:void(0);" class="fab fa-vimeo-v"></a></li>
-            </ul>
-          </div>
-          <div class="col-12 col-sm-7 text-center text-sm-left">
-            <span class="ftTxt d-block">2020 © <a href="homepage.html">Kyata Template.</a> All rights reserved.</span>
-          </div>
+        <div class="row align-items-center">
+    <!--       <div class="row"> -->
+            <div class="col span-1-of-3">
+              <span class="ftTxt d-block">Aria Nikzad</span>
+              <span class="ftTxt d-block">Sacramento, CA</span>
+              <span class="ftTxt d-block">(415) 328-7478</span>
+            </div>
+            <div class="col span-1-of-3">
+              <span class="ftTxt d-block text-center">"The same boiling water that softens the potato hardens the egg. It's about what you're made of, not the circumstances." - Mel Robbins</span>
+            </div>
+            <div class="col span-1-of-3">
+              <ul class="list-unstyled ftSocialNetworks d-flex justify-content-center justify-content-sm-end mb-2 mb-sm-0">
+                <li><a href="javascript:void(0);" class="fab fa-linkedin"></a></li>
+                <li><a href="javascript:void(0);" class="fab fa-instagram"></a></li>
+              </ul>
+            </div>
+          <!-- </div> -->
         </div>
       </div>
     </footer>
