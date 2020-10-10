@@ -65,12 +65,28 @@
 <!-- CLS -->
           <div class="element-item itemIV overflow-hidden transition paid" data-category="transition paid">
             <div class="d-block imgHolder w-100">
-              <a href="images/CLS.jpg.jpg" data-fancybox="gallery" data-caption="Mockup Can Design"><img src="../../public/images/CLS.jpg" class="img-fluid" alt="image description"></a>
+              <a href="#" data-toggle="modal" data-target="#clsModal"><img src="../../public/images/CLS.jpg" class="img-fluid" alt="image description"></a>
               <div class="overbgBTxt position-absolute">
                 <h3>
                   <strong class="fwSemibold px-3 d-inline-block h4 mb-0 d-block"><a href="javascript:void(0);">Concrete Landscape Services</a></strong>
                   <strong class="fontRoboto px-3 d-inline-block designType text-white">Paid Project</strong>
                 </h3>
+              </div>
+            </div>
+<!-- CLS Modal -->
+            <div class="modal fade" id="clsModal">
+              <div class="modal-dialog modal-lg">
+                <div class="modal-content">
+                  <div class="modal-header"> 
+                    <h1>CLS Services</h1>
+                  </div>
+                  <div class="modal-body">
+                    <p>Website <a href="https://www.ConcreteLandscapeServices.com">Concrete Landscape Services</a></p>
+                  </div>
+                  <div class="modal-footer">
+                    <button class="btn-danger">Close</button>
+                  </div>
+                </div>
               </div>
             </div>
           </div>
