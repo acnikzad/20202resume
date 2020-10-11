@@ -84,7 +84,7 @@
                     <p>Website <a href="https://www.ConcreteLandscapeServices.com">Concrete Landscape Services</a></p>
                   </div>
                   <div class="modal-footer">
-                    <button class="btn-danger">Close</button>
+                    <button class="btn btn-danger text-uppercase rounded-pill fwSemibold" data-dismiss="modal" value="close">Close</button>
                   </div>
                 </div>
               </div>
@@ -93,12 +93,47 @@
 <!-- BlockHound -->
           <div class="element-item itemIV overflow-hidden transition project" data-category="transition project">
             <div class="d-block imgHolder w-100">
-              <a href="../../public/images/BHMap.jpg" data-fancybox="gallery" data-caption="Mockup Can Design"><img src="../../public/images/BHMap.jpg" class="img-fluid" alt="image description"></a>
+              <a href="#" data-toggle="modal" data-target="#bhModal"><img src="../../public/images/BHMap.jpg" class="img-fluid" alt="image description"></a>
               <div class="overbgBTxt position-absolute">
                 <h3>
                   <strong class="fwSemibold px-3 d-inline-block h4 mb-0 d-block"><a href="javascript:void(0);">BlockHound</a></strong>
                   <strong class="fontRoboto px-3 d-inline-block designType text-white">Project</strong>
                 </h3>
+              </div>
+            </div>
+<!-- BlockHound Modal -->
+            <div class="modal fade" id="bhModal">
+              <div class="modal-dialog modal-lg">
+                <div class="modal-content">
+                  <div class="modal-header"> 
+                    <div class="col">
+                      <h1>BlockHound</h1>
+                      <h3>Increasing Dog Safety Through Technology</h3>
+                    </div>
+                  </div>
+                  <div class="modal-body">
+                    <p>Inspired by the neighborhood app NextDoor, I wanted to build an app that helps track your dogs movements. Everyday NextDoor is riddled with posts about losts dogs with vague descriptions and locations. I have created an app that can track your dogs movements, alerts you if your dog escapes, and can notify nearby neighbors with your dogs description and real-time location.</p>
+                    <p>For my final project of my coding bootcamp using a culmination of my acquired skill sets, APIs, and GoogleMaps, I created BlockHound. I used Ruby on Rails for the backend, a mixture of HTML, CSS, and Javascript in the Vue.js framework for the front end. I purchased a GPS device from Logistimatics, a North Carolina based company that specializes in tracking devices. By subscribing to their API key, I was able to integrate data obtained from the GPS device I fixed to my dogs collar.</p>
+                    <p>Using real time coordinates updated every 30 seconds, I created an alert that would automatically display if my dog ventures beyond my specified boundaries. Once displayed, the user has the option of alerting nearby neighbors, or dismissing the alert. By alerting nearby neighbors, the user is sharing their dogs real time location, description, and owner contact information. The idea is to safely reunite lost dogs to their owners by using technology and some community help.</p>
+                    <a target="_blank" href="https://www.youtube.com/watch?v=9quKcQxq630&feature=youtu.be&t=2031" >Watch Demo Here</a>
+                  </div>
+                    <div class="row">
+                      <div class="col span-1-of-2">
+                        <ul>
+                          <li>Ruby on Rails</li>
+                          <li>Vue.js</li>
+                          <li>Javascript</li>
+                          <li>HTML</li>
+                          <li>CSS</li>
+                          <li>APIs</li>
+                          <li>Boostrap</li>
+                        </ul>
+                      </div>
+                    </div>
+                  <div class="modal-footer">
+                    <button class="btn btn-danger text-uppercase rounded-pill fwSemibold" data-dismiss="modal" value="close">Close</button>
+                  </div>
+                </div>
               </div>
             </div>
           </div>
