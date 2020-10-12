@@ -52,22 +52,59 @@
             </div>
           </div>
           <div class="row align-items-center mb-2 mb-lg-4 mb-xl-7 justify-content-center">
+  <!-- SFSU -->
             <div class="col-12 col-sm-6 col-lg-4">
-              <!-- agnBlock -->
-              <div class="agnBlock overlay position-relative mb-4 mb-sm-6">
-                <span class="imgHolder w-100 d-block">
-                  <img src="../../public/images/sfsu.png" class="img-fluid" alt="image description">
-                </span>
-                <a href="images/img02.jpg" data-fancybox="gallery" class="position-absolute ico fas fa-plus"></a>
+              <div class="flip-container" ontouchstart="this.classList.toggle('hover');">
+                <div class="flipper">
+                  <div class="front">
+                    <div class="agnBlock overlay position-relative mb-4 mb-sm-6">
+                      <span class="imgHolder w-100 d-block">
+                        <img src="../../public/images/sfsu.png" class="img-fluid" alt="image description">
+                      </span>
+                    </div>
+                  </div>
+                  <div class="back">
+                    <h3>San Francisco State University</h3>
+                    <p>Bachelor of Business Administration: Marketing</p>
+                    <ul>
+                      <li>Information Systems Technology</li>
+                      <li>Marketing Research</li>
+                      <li>Consumer Behavior</li>
+                      <li>Digital Marketing</li>
+                      <li>Micro and Macro Economics</li>
+                      <li>Finance and Business Accounting</li>
+                      <li>Business Communications</li>
+                    </ul>
+                  </div>
+                </div>
               </div>
             </div>
+<!-- Actualize -->
             <div class="col-12 col-sm-6 col-lg-4">
-              <!-- agnBlock -->
-              <div class="agnBlock overlay position-relative mb-4 mb-sm-6">
-                <span class="imgHolder w-100 d-block">
-                  <img src="../../public/images/actualize.png" class="img-fluid" alt="image description">
-                </span>
-                <a href="images/img03.jpg" data-fancybox="gallery" class="position-absolute ico fas fa-plus"></a>
+              <div class="flip-container" ontouchstart="this.classList.toggle('hover');">
+                <div class="flipper">
+                  <div class="front">
+                    <div class="agnBlock overlay position-relative mb-4 mb-sm-6">
+                      <span class="imgHolder w-100 d-block">
+                        <img src="../../public/images/actualize.png" class="img-fluid" alt="image description">
+                      </span>  
+                    </div>
+                  </div>
+                  <div class="back">
+                    <h3>Actualize Coding Bootcamp</h3>
+                     <p>Certification of Completion:<br>Software Development</p>
+                    <ul>
+                      <li>Ruby on Rails</li>
+                      <li>Vue.js</li>
+                      <li>Javascript</li>
+                      <li>Github</li>
+                      <li>Restful APIs</li>
+                      <li>PostgreSQL</li>
+                      <li>HTML/CSS</li>
+                      <li>Object Oriented Programming</li>
+                    </ul>
+                  </div>
+                </div>
               </div>
             </div>
             <div class="col-12 col-sm-6 col-lg-4">
@@ -110,6 +147,16 @@
           </div>
         </div>
       </section>
+      <div class="flip-container" ontouchstart="this.classList.toggle('hover');">
+        <div class="flipper">
+          <div class="front">
+            <h1>Hello</h1>
+          </div>
+          <div class="back">
+            <h2> world</h2>
+          </div>
+        </div>
+      </div>
 <!-- Portfolio -->
     <section class="pt-12 pt-md-15 pt-xl-19" id="portfolio">
         <div class="container">

@@ -35,7 +35,6 @@
           </nav>
 <!-- menuSocialNetworks -->
           <ul class="list-unstyled mb-0 d-flex menuSocialNetworks pl-xl-4">
-          
             <li class="d-none d-lg-inline-block position-relative">
               <a href="javascript:void(0);" class="sideOpener"><i class="fas fa-bars"></i></a>
               <!-- sideNavBar -->
