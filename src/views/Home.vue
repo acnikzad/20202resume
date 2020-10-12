@@ -245,8 +245,8 @@
   <!-- header -->
               <header class="header text-center mb-8 mb-md-10 mb-xl-13">
                 <h2 class="mb-5 mb-md-7">
-                  <strong class="h6 font-weight-light mb-3 text-danger text-capitalize d-block fontRoboto">My skills</strong>
-                  <strong class="text-uppercase d-block">Developer</strong>
+                  <strong class="h6 font-weight-light mb-3 text-danger text-capitalize d-block fontRoboto">My Expertise</strong>
+                  <strong class="text-uppercase d-block">Skill sets</strong>
                 </h2>
                 <span class="bdrBtmImg d-block position-relative mx-auto"></span>
               </header>
@@ -261,7 +261,7 @@
                   <strong class="d-inline-block float-right prsnt text-uppercase">80%</strong>
                 </h4>
                 <div class="progressBar d-block">
-                  <div class="wow over fadeInLeft" style="width: 80%;" data-wow-delay="0.6s"></div>
+                  <div class="wow over fadeInLeft" style="width: 80%;" data-wow-delay="0.9s"></div>
                 </div>
               </article>
             </div>
@@ -273,7 +273,7 @@
                   <strong class="d-inline-block float-right prsnt text-uppercase">80%</strong>
                 </h4>
                 <div class="progressBar d-block">
-                  <div class="wow over fadeInLeft" style="width: 80%;" data-wow-delay="0.6s"></div>
+                  <div class="wow over fadeInLeft" style="width: 80%;" data-wow-delay="0.9s"></div>
                 </div>
               </article>
             </div>
@@ -281,11 +281,11 @@
               <!-- skillProgress -->
               <article class="skillProgress overflow-hidden mb-7 mb-lg-10">
                 <h4 class="mb-3 heading2 $font-weight-normal">
-                  <strong class="d-inline-block text-uppercase">HTML</strong>
+                  <strong class="d-inline-block text-uppercase">HTML/CSS</strong>
                   <strong class="d-inline-block float-right prsnt text-uppercase">85%</strong>
                 </h4>
                 <div class="progressBar d-block">
-                  <div class="wow over fadeInLeft" style="width: 85%;" data-wow-delay="0.6s"></div>
+                  <div class="wow over fadeInLeft" style="width: 85%;" data-wow-delay="0.9s"></div>
                 </div>
               </article>
             </div>
@@ -297,7 +297,7 @@
                   <strong class="d-inline-block float-right prsnt text-uppercase">70%</strong>
                 </h4>
                 <div class="progressBar d-block">
-                  <div class="wow over fadeInLeft" style="width: 70%;" data-wow-delay="0.6s"></div>
+                  <div class="wow over fadeInLeft" style="width: 70%;" data-wow-delay="0.9s"></div>
                 </div>
               </article>
             </div>
@@ -305,11 +305,11 @@
               <!-- skillProgress -->
               <article class="skillProgress overflow-hidden mb-7 mb-lg-10">
                 <h4 class="mb-3 heading2 $font-weight-normal">
-                  <strong class="d-inline-block text-uppercase">CSS</strong>
-                  <strong class="d-inline-block float-right prsnt text-uppercase">65%</strong>
+                  <strong class="d-inline-block text-uppercase">Javascript</strong>
+                  <strong class="d-inline-block float-right prsnt text-uppercase">55%</strong>
                 </h4>
                 <div class="progressBar d-block">
-                  <div class="wow over fadeInLeft" style="width: 65%;" data-wow-delay="0.6s"></div>
+                  <div class="wow over fadeInLeft" style="width: 55%;" data-wow-delay="0.9s"></div>
                 </div>
               </article>
             </div>
@@ -321,7 +321,31 @@
                   <strong class="d-inline-block float-right prsnt text-uppercase">80%</strong>
                 </h4>
                 <div class="progressBar d-block">
-                  <div class="wow over fadeInLeft" style="width: 80%;" data-wow-delay="0.6s"></div>
+                  <div class="wow over fadeInLeft" style="width: 80%;" data-wow-delay="0.9s"></div>
+                </div>
+              </article>
+            </div>
+            <div class="col-12 col-md-6">
+              <!-- skillProgress -->
+              <article class="skillProgress overflow-hidden mb-7 mb-lg-10">
+                <h4 class="mb-3 heading2 $font-weight-normal">
+                  <strong class="d-inline-block text-uppercase">REACT</strong>
+                  <strong class="d-inline-block float-right prsnt text-uppercase">15%</strong>
+                </h4>
+                <div class="progressBar d-block">
+                  <div class="wow over fadeInLeft" style="width: 15%;" data-wow-delay="0.9s"></div>
+                </div>
+              </article>
+            </div>
+            <div class="col-12 col-md-6">
+              <!-- skillProgress -->
+              <article class="skillProgress overflow-hidden mb-7 mb-lg-10">
+                <h4 class="mb-3 heading2 $font-weight-normal">
+                  <strong class="d-inline-block text-uppercase">OBJECT ORIENTED PROGRAMMING</strong>
+                  <strong class="d-inline-block float-right prsnt text-uppercase">75%</strong>
+                </h4>
+                <div class="progressBar d-block">
+                  <div class="wow over fadeInLeft" style="width: 75%;" data-wow-delay="0.9s"></div>
                 </div>
               </article>
             </div>
