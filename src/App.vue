@@ -22,13 +22,13 @@
                   <a class="nav-link plr-8" href="#Home">Home <span class="sr-only">(current)</span></a>
                 </li>
                 <li class="nav-item">
-                  <a class="nav-link plr-8" href="#Portfolio">Portfolio</a>
+                  <a class="nav-link plr-8" href="#portfolio">Portfolio</a>
                 </li>
                 <li class="nav-item">
                   <a class="nav-link plr-8" href="#About">About Me</a>
                 </li>
                 <li class="nav-item">
-                  <a class="nav-link plr-8" href="#Contact">Contact</a>
+                  <a class="nav-link plr-8" href="#footer">Contact</a>
                 </li>
               </ul>
             </div>
@@ -111,14 +111,18 @@
     </header>
     <router-view/>
 <!-- footerArea -->
-    <footer class="footerArea py-5 py-md-6">
+    <footer class="footerHolder pt-11 pb-lg-4" id="footer">
       <div class="container">
         <div class="row align-items-center">
     <!--       <div class="row"> -->
             <div class="col span-1-of-3">
-              <span class="ftTxt d-block">Aria Nikzad</span>
-              <span class="ftTxt d-block">Sacramento, CA</span>
-              <span class="ftTxt d-block">(415) 328-7478</span>
+              <address class="d-block">
+                <ul class="list-unstyled ftContctHolder mb-0 text-center text-md-left">
+                  <li>Located: <span class="text-white">Sacramento, Ca</span></li>
+                  <li>Email: <a href="javascript:void(0);" type="Email">a.c.nikzad@gmail.com</a></li>
+                  <li>Phone: <a href="tel:4153287478">415 328-7478</a></li>
+                </ul>
+              </address>
             </div>
             <div class="col span-1-of-3">
               <span class="ftTxt d-block text-center">"The same boiling water that softens the potato hardens the egg. It's about what you're made of, not the circumstances." - Mel Robbins</span>

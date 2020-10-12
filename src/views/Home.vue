@@ -37,7 +37,7 @@
       </div>
     </section>
 <!-- Portfolio -->
-    <section class="pt-12 pt-md-15 pt-xl-19">
+    <section class="pt-12 pt-md-15 pt-xl-19" id="portfolio">
         <div class="container">
           <div class="row">
             <div class="col-12">
@@ -86,7 +86,7 @@
                     </div>
                   </div>
                   <div class="modal-body">
-                    <p>I met a business owner who was in need of rebuilding their website for their landscape company. After revealing to him I am a full stack developer, he hired me for the task. He needed a static website where he could showcase his work. I created a few rough drafts to see what direction he wanted to take the design. It was a valuable experience to take on my first paid project as a developer. The business owner is very happy with the final look and has since referred me to more business owners in his network.</p>
+                    <p>I was hired to rebuild a website for a business owner local to Sacramento. He needed a static website where he could showcase his concrete and landscape work. I created a few rough drafts to see what direction he wanted to take the design. It was a valuable experience to take on my first paid project as a developer. The business owner is very happy with the final look and has since referred me to more business owners in his network.</p>
                     <a href="https://www.ConcreteLandscapeServices.com">Concrete Landscape Services</a>
                     <br>
                     <div class="row">
@@ -185,13 +185,17 @@
                 </h3>
               </div>
             </div>
+<!-- Corsega Modal -->
             <div class="modal fade" id="corsegaModal">
               <div class="modal-dialog modal-lg">
                 <div class="modal-content">
-                  <div class="modal-header"> 
-                    <h1>Corsega Eyewear</h1>
-                    <h3>#CorsegaEyewear</h3>
-                    <h4>July, 2013 - December, 2016</h4>
+                  <div class="modal-header">
+                    <div class="col span-1-of-2"> 
+                      <h1>Corsega Eyewear</h1>
+                    </div>
+                    <div class="col span-1-of-2 date">
+                      <h4>July, 2013 - December, 2016</h4>
+                    </div>
                   </div>
                   <div class="modal-body">
                     <p>Following my entrepreneurial spirit, I wanted to build a company. I would constantly break or lose expensive sunglasses. I believed stylish, quality sunglasses with polarized lenses should be affordable. So in 2014, after a year of research and development, I launched my own sunglasses company: Corsega Eyewear.</p>
@@ -231,44 +235,103 @@
               </div>
             </div>
           </div>
-          <!-- element-item -->
-          <div class="element-item itemIV overflow-hidden transition overlay design" data-category="transition design">
-            <div class="d-block imgHolder w-100">
-              <img src="images/img14.jpg" class="img-fluid" alt="image description">
-              <div class="overTxt position-absolute">
-                <h3>
-                  <strong class="fwSemibold d-block h4 d-block mb-2"><a href="images/img14.jpg" data-fancybox="gallery" data-caption="Mockup Can Design">Mockup Can Design</a></strong>
-                  <strong class="fontRoboto d-block designType text-white">Design - Branding</strong>
-                </h3>
-              </div>
+        </div>
+      </section>
+<!-- skills -->
+      <section class="pt-12 pt-md-15 pt-xl-19 pb-7 pb-xl-10 bg-light">
+        <div class="container">
+          <div class="row">
+            <div class="col-12">
+  <!-- header -->
+              <header class="header text-center mb-8 mb-md-10 mb-xl-13">
+                <h2 class="mb-5 mb-md-7">
+                  <strong class="h6 font-weight-light mb-3 text-danger text-capitalize d-block fontRoboto">My skills</strong>
+                  <strong class="text-uppercase d-block">Developer</strong>
+                </h2>
+                <span class="bdrBtmImg d-block position-relative mx-auto"></span>
+              </header>
             </div>
           </div>
-          <!-- element-item -->
-          <div class="element-item itemIV overflow-hidden transition photo" data-category="transition photo">
-            <div class="d-block imgHolder w-100">
-              <a href="images/img15.jpg" data-fancybox="gallery" data-caption="Mockup Can Design"><img src="images/img15.jpg" class="img-fluid" alt="image description"></a>
-              <div class="overbgBTxt position-absolute">
-                <h3>
-                  <strong class="fwSemibold px-3 d-inline-block h4 d-block mb-0"><a href="javascript:void(0);">Mockup Can Design</a></strong>
-                  <strong class="fontRoboto px-3 d-inline-block designType"> text-whiteDesign - Branding</strong>
-                </h3>
-              </div>
+          <div class="row">
+            <div class="col-12 col-md-6">
+  <!-- skillProgress -->
+              <article class="skillProgress overflow-hidden mb-7 mb-lg-10">
+                <h4 class="mb-3 heading2 $font-weight-normal">
+                  <strong class="d-inline-block text-uppercase">Ruby on Rails</strong>
+                  <strong class="d-inline-block float-right prsnt text-uppercase">80%</strong>
+                </h4>
+                <div class="progressBar d-block">
+                  <div class="wow over fadeInLeft" style="width: 80%;" data-wow-delay="0.6s"></div>
+                </div>
+              </article>
             </div>
-          </div>
-          <!-- element-item -->
-          <div class="element-item itemIV overflow-hidden overlay app web" data-category="app web">
-            <div class="d-block imgHolder w-100">
-              <img src="images/img16.jpg" class="img-fluid" alt="image description">
-              <div class="overTxt position-absolute">
-                <h3>
-                  <strong class="fwSemibold d-block h4 d-block mb-2"><a href="images/img16.jpg" data-fancybox="gallery" data-caption="Mockup Can Design">Mockup Can Design</a></strong>
-                  <strong class="fontRoboto d-block designType text-white">Design - Branding</strong>
-                </h3>
-              </div>
+            <div class="col-12 col-md-6">
+              <!-- skillProgress -->
+              <article class="skillProgress overflow-hidden mb-7 mb-lg-10">
+                <h4 class="mb-3 heading2 $font-weight-normal">
+                  <strong class="d-inline-block text-uppercase">Vue.js</strong>
+                  <strong class="d-inline-block float-right prsnt text-uppercase">80%</strong>
+                </h4>
+                <div class="progressBar d-block">
+                  <div class="wow over fadeInLeft" style="width: 80%;" data-wow-delay="0.6s"></div>
+                </div>
+              </article>
+            </div>
+            <div class="col-12 col-md-6">
+              <!-- skillProgress -->
+              <article class="skillProgress overflow-hidden mb-7 mb-lg-10">
+                <h4 class="mb-3 heading2 $font-weight-normal">
+                  <strong class="d-inline-block text-uppercase">HTML</strong>
+                  <strong class="d-inline-block float-right prsnt text-uppercase">85%</strong>
+                </h4>
+                <div class="progressBar d-block">
+                  <div class="wow over fadeInLeft" style="width: 85%;" data-wow-delay="0.6s"></div>
+                </div>
+              </article>
+            </div>
+            <div class="col-12 col-md-6">
+              <!-- skillProgress -->
+              <article class="skillProgress overflow-hidden mb-7 mb-lg-10">
+                <h4 class="mb-3 heading2 $font-weight-normal">
+                  <strong class="d-inline-block text-uppercase">social media marketing</strong>
+                  <strong class="d-inline-block float-right prsnt text-uppercase">70%</strong>
+                </h4>
+                <div class="progressBar d-block">
+                  <div class="wow over fadeInLeft" style="width: 70%;" data-wow-delay="0.6s"></div>
+                </div>
+              </article>
+            </div>
+            <div class="col-12 col-md-6">
+              <!-- skillProgress -->
+              <article class="skillProgress overflow-hidden mb-7 mb-lg-10">
+                <h4 class="mb-3 heading2 $font-weight-normal">
+                  <strong class="d-inline-block text-uppercase">CSS</strong>
+                  <strong class="d-inline-block float-right prsnt text-uppercase">65%</strong>
+                </h4>
+                <div class="progressBar d-block">
+                  <div class="wow over fadeInLeft" style="width: 65%;" data-wow-delay="0.6s"></div>
+                </div>
+              </article>
+            </div>
+            <div class="col-12 col-md-6">
+              <!-- skillProgress -->
+              <article class="skillProgress overflow-hidden mb-7 mb-lg-10">
+                <h4 class="mb-3 heading2 $font-weight-normal">
+                  <strong class="d-inline-block text-uppercase">web development</strong>
+                  <strong class="d-inline-block float-right prsnt text-uppercase">80%</strong>
+                </h4>
+                <div class="progressBar d-block">
+                  <div class="wow over fadeInLeft" style="width: 80%;" data-wow-delay="0.6s"></div>
+                </div>
+              </article>
             </div>
           </div>
         </div>
       </section>
+<!-- mapHolder -->
+      <div class="mapHolder">
+        <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d86283.41310927564!2d-121.52673576012504!3d38.55496777055841!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sen!2snz!4v1602523858687!5m2!1sen!2snz" width="600" height="450" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
+      </div>
 
   </div>
 
