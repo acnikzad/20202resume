@@ -15053,3 +15053,7 @@ html {
 .back {
   transform: rotateY(180deg);
 }
+
+.ftr-icon {
+  font-size: 200%;
+}

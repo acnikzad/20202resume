@@ -28,7 +28,7 @@
                     </div>
                   </div>
                 </h1>
-                <a href="javascript:void(0);" class="btn btn-danger text-uppercase rounded-pill fwSemibold">learn more</a>
+                <a href="#About" class="btn btn-danger text-uppercase rounded-pill fwSemibold">learn more</a>
               </div>
             </div>
           </div>
@@ -92,7 +92,7 @@
                   </div>
                   <div class="back">
                     <h3>Actualize Coding Bootcamp</h3>
-                     <p>Certification of Completion:<br>Software Development</p>
+                     <p>Certification of Completion:<br>Full Stack Development</p>
                     <ul>
                       <li>Ruby on Rails</li>
                       <li>Vue.js</li>
@@ -184,7 +184,7 @@
                 <div class="modal-content">
                   <div class="modal-header">
                     <div class="col span-1-of-2"> 
-                      <h1>CLS Services</h1>
+                      <h2>CLS Services</h2>
                     </div>
                     <div class="col span-1-of-2 date date">
                       <h4>February, 2020</h4>
@@ -231,7 +231,7 @@
                 <div class="modal-content">
                   <div class="modal-header"> 
                     <div class="col span-1-of-2">
-                      <h1>BlockHound</h1>
+                      <h2>BlockHound</h2>
                       <h3>Increasing Dog Safety Through Technology</h3>
                     </div>
                     <div class="col span-1-of-2 date">
@@ -296,7 +296,7 @@
                 <div class="modal-content">
                   <div class="modal-header">
                     <div class="col span-1-of-2"> 
-                      <h1>Corsega Eyewear</h1>
+                      <h2>Corsega Eyewear</h2>
                     </div>
                     <div class="col span-1-of-2 date">
                       <h4>July, 2013 - December, 2016</h4>
@@ -305,21 +305,23 @@
                   <div class="modal-body">
                     <p>Following my entrepreneurial spirit, I wanted to build a company. I would constantly break or lose expensive sunglasses. I believed stylish, quality sunglasses with polarized lenses should be affordable. So in 2014, after a year of research and development, I launched my own sunglasses company: Corsega Eyewear.</p>
                     <p>The idea came to me right after I overpaid for a pair of sunglasses during a trip to Barcelona, Spain in the summer of 2013. I analyzed the glasses on the balcony of my hostel and became really intrigued about what the net cost of producing sunglasses were. After learning the cost and profit margins that are typically associated with the eyewear industry, I decided to start my own company. After a year of research and development, Corsega Eyewear was born July, 2014.</p>
-                    <p>Once the online store became live, I marketed my sunglasses through social media and paid advertising. I took direct lessons from my Digital Marketing classes and applied them to my real time business project. I soon found strategies and techniques that were much more efficient than others, such as Search Engine Optimization (SEO) vs. Search Engine Marketing (SEM). My sunglasses were also being sold in boutiques throughout the San Francisco and Petaluma area. I reached profitability within 11 months and ran the company for another two years before shutting it down and relocating to the Sacramento area.</p>
+                    <p>Once the online store became live, I marketed my sunglasses through social media and paid advertising. I took direct lessons from my Digital Marketing classes and applied them to my real time business project. I soon found strategies and techniques that were much more efficient than others, such as Search Engine Optimization (SEO) vs. Search Engine Marketing (SEM). My sunglasses were also being sold in boutiques throughout the San Francisco and Petaluma area. I reached profitability within 11 months and ran the company for another two years before selling the remaining inventory and relocating to the Sacramento area.</p>
                     <a href="https://www.ConcreteLandscapeServices.com">Concrete Landscape Services</a>
                     <br>
                     <div class="row">
                       <div class="col span-1-of-3">
                         <ul>
-                          <li>Vue.js</li>
-                          <li>HTML</li>
-                          <li>CSS</li>
-                          <li>Bootstrap</li>
-                          <li>Netlify</li>
+                          <li>SEO/SEM Optimization</li>
+                          <li>Graphic Design</li>
+                          <li>Brand Development</li>
+                          <li>Adobe Photoshop</li>
+                          <li>Adobe Illustrator</li>
+                          <li>Google Adwords</li>
+                          <li>Google Analytics</li>
                         </ul>
                       </div>
                     </div>
-                    <img src="../../public/images/CLSHomeTop.jpg" class=" modal-img">
+                    <a href="" data-fancybox="gallery" data-caption="Mockup Can Design"><img src="../../public/images/greens.jpg" class="img-fluid" alt="image description"></a>
                   </div>
                   <div class="modal-footer">
                     <button class="btn btn-danger text-uppercase rounded-pill fwSemibold" data-dismiss="modal" value="close">Close</button>
