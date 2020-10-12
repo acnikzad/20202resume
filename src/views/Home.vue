@@ -36,6 +36,80 @@
         </div>
       </div>
     </section>
+    <!-- about me -->
+    <section id="About" class="abUsSec py-12 py-md-15 py-xl-19 bg-light">
+        <div class="container">
+          <div class="row">
+            <div class="col-12">
+              <!-- header -->
+              <header class="header text-center mb-8 mb-md-10 mb-xl-14">
+                <h2 class="mb-5">
+                  <strong class="h6 font-weight-light mb-3 text-danger text-capitalize d-block fontRoboto">About Me</strong>
+                  <strong class="text-uppercase d-block">Education</strong>
+                </h2>
+                <span class="bdrBtmImg d-block position-relative mx-auto"></span>
+              </header>
+            </div>
+          </div>
+          <div class="row align-items-center mb-2 mb-lg-4 mb-xl-7 justify-content-center">
+            <div class="col-12 col-sm-6 col-lg-4">
+              <!-- agnBlock -->
+              <div class="agnBlock overlay position-relative mb-4 mb-sm-6">
+                <span class="imgHolder w-100 d-block">
+                  <img src="../../public/images/sfsu.png" class="img-fluid" alt="image description">
+                </span>
+                <a href="images/img02.jpg" data-fancybox="gallery" class="position-absolute ico fas fa-plus"></a>
+              </div>
+            </div>
+            <div class="col-12 col-sm-6 col-lg-4">
+              <!-- agnBlock -->
+              <div class="agnBlock overlay position-relative mb-4 mb-sm-6">
+                <span class="imgHolder w-100 d-block">
+                  <img src="../../public/images/actualize.png" class="img-fluid" alt="image description">
+                </span>
+                <a href="images/img03.jpg" data-fancybox="gallery" class="position-absolute ico fas fa-plus"></a>
+              </div>
+            </div>
+            <div class="col-12 col-sm-6 col-lg-4">
+              <!-- agnBlock -->
+              <div class="agnBlock overlay position-relative mb-4 mb-sm-6">
+                <span class="imgHolder w-100 d-block">
+                  <img src="../../public/images/udemy.png" class="img-fluid" alt="image description">
+                </span>
+                <a href="images/img04.jpg" data-fancybox="gallery" class="position-absolute ico fas fa-plus"></a>
+              </div>
+            </div>
+          </div>
+          <div class="row mb-3 mb-sm-5 mb-lg-7 mb-xl-9">
+            <div class="col-12 col-lg-8 offset-lg-2 text-center">
+              <p>We tackle business problems with intelligence. We use cutting-edge tech and cutting-edge thinking to bring brands to life online and direct consumer behavior.</p>
+            </div>
+          </div>
+          <div class="row">
+            <div class="col-12">
+              <!-- progressCounter -->
+              <ul class="progressCounter bg-light list-unstyled mb-0 mx-8 mx-sm-0 d-flex flex-wrap text-capitalize text-center">
+                <li class="px-3 py-7 py-sm-5 py-md-7 py-lg-9">
+                  <strong class="d-block mb-0 mb-md-1 h2 fontPoppins font-weight-bold counter">525</strong>
+                  <strong class="d-block fontRoboto font-weight-normal">projects</strong>
+                </li>
+                <li class="px-3 py-7 py-sm-5 py-md-7 py-lg-9">
+                  <strong class="d-block mb-0 mb-md-1 h2 fontPoppins font-weight-bold counter">1200</strong>
+                  <strong class="d-block fontRoboto font-weight-normal">hours</strong>
+                </li>
+                <li class="px-3 py-7 py-sm-5 py-md-7 py-lg-9">
+                  <strong class="d-block mb-0 mb-md-1 h2 fontPoppins font-weight-bold counter">14</strong>
+                  <strong class="d-block fontRoboto font-weight-normal">award</strong>
+                </li>
+                <li class="px-3 py-7 py-sm-5 py-md-7 py-lg-9">
+                  <strong class="d-block mb-1 h2 fontPoppins font-weight-bold counter">525</strong>
+                  <strong class="d-block fontRoboto font-weight-normal">layout</strong>
+                </li>
+              </ul>
+            </div>
+          </div>
+        </div>
+      </section>
 <!-- Portfolio -->
     <section class="pt-12 pt-md-15 pt-xl-19" id="portfolio">
         <div class="container">
@@ -261,7 +335,7 @@
                   <strong class="d-inline-block float-right prsnt text-uppercase">80%</strong>
                 </h4>
                 <div class="progressBar d-block">
-                  <div class="wow over fadeInLeft" style="width: 80%;" data-wow-delay="0.9s"></div>
+                  <div class="wow over fadeInLeft" style="width: 80%;" data-wow-delay="0.5s"></div>
                 </div>
               </article>
             </div>
@@ -273,7 +347,7 @@
                   <strong class="d-inline-block float-right prsnt text-uppercase">80%</strong>
                 </h4>
                 <div class="progressBar d-block">
-                  <div class="wow over fadeInLeft" style="width: 80%;" data-wow-delay="0.9s"></div>
+                  <div class="wow over fadeInLeft" style="width: 80%;" data-wow-delay="0.5s"></div>
                 </div>
               </article>
             </div>
@@ -285,7 +359,7 @@
                   <strong class="d-inline-block float-right prsnt text-uppercase">85%</strong>
                 </h4>
                 <div class="progressBar d-block">
-                  <div class="wow over fadeInLeft" style="width: 85%;" data-wow-delay="0.9s"></div>
+                  <div class="wow over fadeInLeft" style="width: 85%;" data-wow-delay="0.5s"></div>
                 </div>
               </article>
             </div>
@@ -297,7 +371,7 @@
                   <strong class="d-inline-block float-right prsnt text-uppercase">70%</strong>
                 </h4>
                 <div class="progressBar d-block">
-                  <div class="wow over fadeInLeft" style="width: 70%;" data-wow-delay="0.9s"></div>
+                  <div class="wow over fadeInLeft" style="width: 70%;" data-wow-delay="0.5s"></div>
                 </div>
               </article>
             </div>
@@ -309,7 +383,7 @@
                   <strong class="d-inline-block float-right prsnt text-uppercase">55%</strong>
                 </h4>
                 <div class="progressBar d-block">
-                  <div class="wow over fadeInLeft" style="width: 55%;" data-wow-delay="0.9s"></div>
+                  <div class="wow over fadeInLeft" style="width: 55%;" data-wow-delay="0.5s"></div>
                 </div>
               </article>
             </div>
@@ -321,7 +395,7 @@
                   <strong class="d-inline-block float-right prsnt text-uppercase">80%</strong>
                 </h4>
                 <div class="progressBar d-block">
-                  <div class="wow over fadeInLeft" style="width: 80%;" data-wow-delay="0.9s"></div>
+                  <div class="wow over fadeInLeft" style="width: 80%;" data-wow-delay="0.5s"></div>
                 </div>
               </article>
             </div>
@@ -333,7 +407,7 @@
                   <strong class="d-inline-block float-right prsnt text-uppercase">15%</strong>
                 </h4>
                 <div class="progressBar d-block">
-                  <div class="wow over fadeInLeft" style="width: 15%;" data-wow-delay="0.9s"></div>
+                  <div class="wow over fadeInLeft" style="width: 15%;" data-wow-delay="0.5s"></div>
                 </div>
               </article>
             </div>
@@ -345,7 +419,7 @@
                   <strong class="d-inline-block float-right prsnt text-uppercase">75%</strong>
                 </h4>
                 <div class="progressBar d-block">
-                  <div class="wow over fadeInLeft" style="width: 75%;" data-wow-delay="0.9s"></div>
+                  <div class="wow over fadeInLeft" style="width: 75%;" data-wow-delay="0.5s"></div>
                 </div>
               </article>
             </div>
