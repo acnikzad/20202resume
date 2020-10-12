@@ -77,11 +77,30 @@
             <div class="modal fade" id="clsModal">
               <div class="modal-dialog modal-lg">
                 <div class="modal-content">
-                  <div class="modal-header"> 
-                    <h1>CLS Services</h1>
+                  <div class="modal-header">
+                    <div class="col span-1-of-2"> 
+                      <h1>CLS Services</h1>
+                    </div>
+                    <div class="col span-1-of-2 date date">
+                      <h4>February, 2020</h4>
+                    </div>
                   </div>
                   <div class="modal-body">
-                    <p>Website <a href="https://www.ConcreteLandscapeServices.com">Concrete Landscape Services</a></p>
+                    <p>I met a business owner who was in need of rebuilding their website for their landscape company. After revealing to him I am a full stack developer, he hired me for the task. He needed a static website where he could showcase his work. I created a few rough drafts to see what direction he wanted to take the design. It was a valuable experience to take on my first paid project as a developer. The business owner is very happy with the final look and has since referred me to more business owners in his network.</p>
+                    <a href="https://www.ConcreteLandscapeServices.com">Concrete Landscape Services</a>
+                    <br>
+                    <div class="row">
+                      <div class="col span-1-of-3">
+                        <ul>
+                          <li>Vue.js</li>
+                          <li>HTML</li>
+                          <li>CSS</li>
+                          <li>Bootstrap</li>
+                          <li>Netlify</li>
+                        </ul>
+                      </div>
+                    </div>
+                    <img src="../../public/images/CLSHomeTop.jpg" class=" modal-img">
                   </div>
                   <div class="modal-footer">
                     <button class="btn btn-danger text-uppercase rounded-pill fwSemibold" data-dismiss="modal" value="close">Close</button>
@@ -106,9 +125,12 @@
               <div class="modal-dialog modal-lg">
                 <div class="modal-content">
                   <div class="modal-header"> 
-                    <div class="col">
+                    <div class="col span-1-of-2">
                       <h1>BlockHound</h1>
                       <h3>Increasing Dog Safety Through Technology</h3>
+                    </div>
+                    <div class="col span-1-of-2 date">
+                      <h4>February, 2020</h4>
                     </div>
                   </div>
                   <div class="modal-body">
@@ -126,8 +148,11 @@
                           <li>HTML</li>
                           <li>CSS</li>
                           <li>APIs</li>
-                          <li>Boostrap</li>
+                          <li>Bootstrap</li>
                         </ul>
+                      </div>
+                      <div class="col span-1-of-2">
+                        <img src="../../public/images/blockhound.jpg" class="img-fluid modal-img">
                       </div>
                     </div>
                   <div class="modal-footer">
@@ -152,12 +177,45 @@
   <!-- Corsega Eyewear -->
           <div class="element-item itemIV overflow-hidden transition entreprenuerial" data-category="transition entreprenuerial">
             <div class="d-block imgHolder w-100">
-              <a href="../../public/images/Blue2.jpg" data-fancybox="gallery" data-caption="Mockup Can Design"><img src="../../public/images/Blue2.jpg" class="img-fluid" alt="image description"></a>
+              <a href="#" data-toggle="modal" data-target="#corsegaModal"><img src="../../public/images/Blue2.jpg" class="img-fluid" alt="image description"></a>
               <div class="overbgBTxt position-absolute">
                 <h3>
                   <strong class="fwSemibold px-3 d-inline-block h4 mb-0 d-block"><a href="javascript:void(0);">Corsega Eyewear</a></strong>
                   <strong class="fontRoboto px-3 d-inline-block designType text-white">Entrepreneurial Project</strong>
                 </h3>
+              </div>
+            </div>
+            <div class="modal fade" id="corsegaModal">
+              <div class="modal-dialog modal-lg">
+                <div class="modal-content">
+                  <div class="modal-header"> 
+                    <h1>Corsega Eyewear</h1>
+                    <h3>#CorsegaEyewear</h3>
+                    <h4>July, 2013 - December, 2016</h4>
+                  </div>
+                  <div class="modal-body">
+                    <p>Following my entrepreneurial spirit, I wanted to build a company. I would constantly break or lose expensive sunglasses. I believed stylish, quality sunglasses with polarized lenses should be affordable. So in 2014, after a year of research and development, I launched my own sunglasses company: Corsega Eyewear.</p>
+                    <p>The idea came to me right after I overpaid for a pair of sunglasses during a trip to Barcelona, Spain in the summer of 2013. I analyzed the glasses on the balcony of my hostel and became really intrigued about what the net cost of producing sunglasses were. After learning the cost and profit margins that are typically associated with the eyewear industry, I decided to start my own company. After a year of research and development, Corsega Eyewear was born July, 2014.</p>
+                    <p>Once the online store became live, I marketed my sunglasses through social media and paid advertising. I took direct lessons from my Digital Marketing classes and applied them to my real time business project. I soon found strategies and techniques that were much more efficient than others, such as Search Engine Optimization (SEO) vs. Search Engine Marketing (SEM). My sunglasses were also being sold in boutiques throughout the San Francisco and Petaluma area. I reached profitability within 11 months and ran the company for another two years before shutting it down and relocating to the Sacramento area.</p>
+                    <a href="https://www.ConcreteLandscapeServices.com">Concrete Landscape Services</a>
+                    <br>
+                    <div class="row">
+                      <div class="col span-1-of-3">
+                        <ul>
+                          <li>Vue.js</li>
+                          <li>HTML</li>
+                          <li>CSS</li>
+                          <li>Bootstrap</li>
+                          <li>Netlify</li>
+                        </ul>
+                      </div>
+                    </div>
+                    <img src="../../public/images/CLSHomeTop.jpg" class=" modal-img">
+                  </div>
+                  <div class="modal-footer">
+                    <button class="btn btn-danger text-uppercase rounded-pill fwSemibold" data-dismiss="modal" value="close">Close</button>
+                  </div>
+                </div>
               </div>
             </div>
           </div>

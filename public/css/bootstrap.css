@@ -14986,3 +14986,19 @@ a.text-dark:hover, a.text-dark:focus {
   color: #6D7B3C;
   transform: scale(1.25);
 }
+
+.modal-img {
+  padding-right: 5%;
+  padding-bottom: 10%;
+  /*margin-left: -25%;*/
+  border-radius: 1%;
+  width: 100%;
+}
+
+.date {
+  text-align: right;
+}
+
+.modal-body.p {
+  font-size: 22;
+}
