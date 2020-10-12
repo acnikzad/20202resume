@@ -15002,3 +15002,7 @@ a.text-dark:hover, a.text-dark:focus {
 .modal-body.p {
   font-size: 22;
 }
+
+html {
+  scroll-behavior: smooth;
+}
