@@ -72,8 +72,10 @@
                       <li>Consumer Behavior</li>
                       <li>Digital Marketing</li>
                       <li>Micro and Macro Economics</li>
+                      <li>Retail and Operations Management</li>
                       <li>Finance and Business Accounting</li>
                       <li>Business Communications</li>
+                      <li>Calculus</li>
                     </ul>
                   </div>
                 </div>
@@ -186,8 +188,8 @@
                     <div class="col span-1-of-2"> 
                       <h2>CLS Services</h2>
                     </div>
-                    <div class="col span-1-of-2 date date">
-                      <h4>February, 2020</h4>
+                    <div class="col span-1-of-2 date">
+                      <h4>July, 2020</h4>
                     </div>
                   </div>
                   <div class="modal-body">
@@ -196,6 +198,7 @@
                     <br>
                     <div class="row">
                       <div class="col span-1-of-3">
+                        <h4>Skills Used</h4>
                         <ul>
                           <li>Vue.js</li>
                           <li>HTML</li>
@@ -245,7 +248,8 @@
                     <a target="_blank" href="https://www.youtube.com/watch?v=9quKcQxq630&feature=youtu.be&t=2031" >Watch Demo Here</a>
                   </div>
                     <div class="row">
-                      <div class="col span-1-of-2">
+                      <div class="col span-1-of-1">
+                        <h4>Skills Used</h4>
                         <ul>
                           <li>Ruby on Rails</li>
                           <li>Vue.js</li>
@@ -253,10 +257,11 @@
                           <li>HTML</li>
                           <li>CSS</li>
                           <li>APIs</li>
+                          <li>Google Maps</li>
                           <li>Bootstrap</li>
                         </ul>
                       </div>
-                      <div class="col span-1-of-2">
+                      <div class="col span-1-of-1">
                         <img src="../../public/images/blockhound.jpg" class="img-fluid modal-img">
                       </div>
                     </div>
@@ -270,12 +275,52 @@
 <!-- Christoffersen Collection -->
           <div class="element-item itemIV overflow-hidden transition paid" data-category="transition paid">
             <div class="d-block imgHolder w-100">
-              <a href="../../public/images/CC.jpg" data-fancybox="gallery" data-caption="Mockup Can Design"><img src="../../public/images/CC.jpg" class="img-fluid" alt="image description"></a>
+              <a href="#" data-toggle="modal" data-target="#ccModal"><img src="../../public/images/CC.jpg" class="img-fluid" alt="image description"></a>
               <div class="overbgBTxt position-absolute">
                 <h3>
                   <strong class="fwSemibold px-3 d-inline-block h4 mb-0 d-block"><a href="javascript:void(0);">Christoffersen Collection</a></strong>
                   <strong class="fontRoboto px-3 d-inline-block designType text-white">Paid Project</strong>
                 </h3>
+              </div>
+            </div>
+<!-- Christoffersen Modal -->
+            <div class="modal fade" id="ccModal">
+              <div class="modal-dialog modal-lg">
+                <div class="modal-content">
+                  <div class="modal-header"> 
+                    <div class="col span-1-of-2">
+                      <h2>Christoffersen Collection</h2>
+                      <h3>Orchids for your Home</h3>
+                    </div>
+                    <div class="col span-1-of-2 date">
+                      <h4>October, 2020</h4>
+                    </div>
+                  </div>
+                  <div class="modal-body">
+                    <h3>Coming Soon...</h3>
+<!--                     <a target="_blank" href="https://www.youtube.com/watch?v=9quKcQxq630&feature=youtu.be&t=2031" >Watch Demo Here</a> -->
+                  </div>
+                    <div class="row">
+                      <div class="col span-1-of-3">
+<!--                         <h4>Skills Used</h4>
+                        <ul>
+                          <li>Ruby on Rails</li>
+                          <li>Vue.js</li>
+                          <li>Javascript</li>
+                          <li>HTML</li>
+                          <li>CSS</li>
+                          <li>APIs</li>
+                          <li>Bootstrap</li>
+                        </ul> -->
+                      </div>
+                      <div class="col span-1-of-2">
+                        <!-- <img src="../../public/images/blockhound.jpg" class="img-fluid modal-img"> -->
+                      </div>
+                    </div>
+                  <div class="modal-footer">
+                    <button class="btn btn-danger text-uppercase rounded-pill fwSemibold" data-dismiss="modal" value="close">Close</button>
+                  </div>
+                </div>
               </div>
             </div>
           </div>
@@ -306,10 +351,11 @@
                     <p>Following my entrepreneurial spirit, I wanted to build a company. I would constantly break or lose expensive sunglasses. I believed stylish, quality sunglasses with polarized lenses should be affordable. So in 2014, after a year of research and development, I launched my own sunglasses company: Corsega Eyewear.</p>
                     <p>The idea came to me right after I overpaid for a pair of sunglasses during a trip to Barcelona, Spain in the summer of 2013. I analyzed the glasses on the balcony of my hostel and became really intrigued about what the net cost of producing sunglasses were. After learning the cost and profit margins that are typically associated with the eyewear industry, I decided to start my own company. After a year of research and development, Corsega Eyewear was born July, 2014.</p>
                     <p>Once the online store became live, I marketed my sunglasses through social media and paid advertising. I took direct lessons from my Digital Marketing classes and applied them to my real time business project. I soon found strategies and techniques that were much more efficient than others, such as Search Engine Optimization (SEO) vs. Search Engine Marketing (SEM). My sunglasses were also being sold in boutiques throughout the San Francisco and Petaluma area. I reached profitability within 11 months and ran the company for another two years before selling the remaining inventory and relocating to the Sacramento area.</p>
-                    <a href="https://www.ConcreteLandscapeServices.com">Concrete Landscape Services</a>
+                     <a href="https://www.instagram.com/explore/tags/corsegaeyewear/?hl=en">#CorsegaEyewear on Instagram</a>
                     <br>
                     <div class="row">
                       <div class="col span-1-of-3">
+                        <h4>Skills Used</h4>
                         <ul>
                           <li>SEO/SEM Optimization</li>
                           <li>Graphic Design</li>
@@ -333,12 +379,52 @@
 <!-- 4x4 Teardrops -->
           <div class="element-item itemIV overflow-hidden transition paid" data-category="transition paid">
             <div class="d-block imgHolder w-100">
-              <a href="../../public/images/XTR1.jpg" data-fancybox="gallery" data-caption="Mockup Can Design"><img src="../../public/images/XTR1.jpg" class="img-fluid" alt="image description"></a>
+              <a href="#" data-toggle="modal" data-target="#tearModal"><img src="../../public/images/XTR1.jpg" class="img-fluid" alt="image description"></a>
               <div class="overbgBTxt position-absolute">
                 <h3>
                   <strong class="fwSemibold px-3 d-inline-block h4 d-block mb-0"><a href="javascript:void(0);">4X4 Teardrops</a></strong>
                   <strong class="fontRoboto px-3 d-inline-block designType text-white">Paid Project</strong>
                 </h3>
+              </div>
+            </div>
+            <div class="modal fade" id="tearModal">
+              <div class="modal-dialog modal-lg">
+                <div class="modal-content">
+                  <div class="modal-header"> 
+                    <div class="col span-1-of-2">
+                      <h2>4x4 Teardrop Trailers</h2>
+                      <h3>Customize your own offroad teardrop trailers</h3>
+                    </div>
+                    <div class="col span-1-of-2 date">
+                      <h4>October, 2020</h4>
+                    </div>
+                  </div>
+                  <div class="modal-body">
+                    <h3>Coming Soon...</h3>
+                    <!-- <a target="_blank" href="https://www.youtube.com/watch?v=9quKcQxq630&feature=youtu.be&t=2031" >Watch Demo Here</a> -->
+                  </div>
+                    <div class="row">
+                      <!-- <div class="col span-1-of-1">
+                        <h4>Skills Used</h4>
+                        <ul>
+                          <li>Ruby on Rails</li>
+                          <li>Vue.js</li>
+                          <li>Javascript</li>
+                          <li>HTML</li>
+                          <li>CSS</li>
+                          <li>APIs</li>
+                          <li>Google Maps</li>
+                          <li>Bootstrap</li>
+                        </ul>
+                      </div> -->
+                      <div class="col span-1-of-1">
+                        <!-- <img src="../../public/images/blockhound.jpg" class="img-fluid modal-img"> -->
+                      </div>
+                    </div>
+                  <div class="modal-footer">
+                    <button class="btn btn-danger text-uppercase rounded-pill fwSemibold" data-dismiss="modal" value="close">Close</button>
+                  </div>
+                </div>
               </div>
             </div>
           </div>
