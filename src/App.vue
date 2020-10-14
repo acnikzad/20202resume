@@ -56,8 +56,9 @@
           </div>
           <div class="col span-1-of-3">
             <ul class="list-unstyled ftSocialNetworks d-flex justify-content-center justify-content-lg-end mb-2 mb-sm-0">
-              <li><a href="https://www.linkedin.com/in/arianikzad/" class="fab fa-linkedin"></a></li>
-              <li><a href="https://www.instagram.com/acnikzad/?hl=en" class="fab fa-instagram"></a></li>
+              <li><a href="https://www.linkedin.com/in/arianikzad/" target="_blank" class="fab fa-linkedin"></a></li>
+              <li><a href="https://www.instagram.com/acnikzad/?hl=en" target="_blank" class="fab fa-instagram"></a></li>
+              <li><a href="https://github.com/acnikzad" target="_blank" class="fab fa-github"></a></li>
             </ul>
           </div>
         </div>

@@ -194,7 +194,7 @@
                   </div>
                   <div class="modal-body">
                     <p>I was hired to rebuild a website for a business owner local to Sacramento. He needed a static website where he could showcase his concrete and landscape work. I created a few rough drafts to see what direction he wanted to take the design. It was a valuable experience to take on my first paid project as a developer. The business owner is very happy with the final look and has since referred me to more business owners in his network.</p>
-                    <a href="https://www.ConcreteLandscapeServices.com">Concrete Landscape Services</a>
+                    <a href="https://www.ConcreteLandscapeServices.com" target="_blank">Concrete Landscape Services</a>
                     <br>
                     <div class="row">
                       <div class="col span-1-of-3">
@@ -351,7 +351,7 @@
                     <p>Following my entrepreneurial spirit, I wanted to build a company. I would constantly break or lose expensive sunglasses. I believed stylish, quality sunglasses with polarized lenses should be affordable. So in 2014, after a year of research and development, I launched my own sunglasses company: Corsega Eyewear.</p>
                     <p>The idea came to me right after I overpaid for a pair of sunglasses during a trip to Barcelona, Spain in the summer of 2013. I analyzed the glasses on the balcony of my hostel and became really intrigued about what the net cost of producing sunglasses were. After learning the cost and profit margins that are typically associated with the eyewear industry, I decided to start my own company. After a year of research and development, Corsega Eyewear was born July, 2014.</p>
                     <p>Once the online store became live, I marketed my sunglasses through social media and paid advertising. I took direct lessons from my Digital Marketing classes and applied them to my real time business project. I soon found strategies and techniques that were much more efficient than others, such as Search Engine Optimization (SEO) vs. Search Engine Marketing (SEM). My sunglasses were also being sold in boutiques throughout the San Francisco and Petaluma area. I reached profitability within 11 months and ran the company for another two years before selling the remaining inventory and relocating to the Sacramento area.</p>
-                     <a href="https://www.instagram.com/explore/tags/corsegaeyewear/?hl=en">#CorsegaEyewear on Instagram</a>
+                     <a href="https://www.instagram.com/explore/tags/corsegaeyewear/?hl=en" target="_blank">#CorsegaEyewear on Instagram</a>
                     <br>
                     <div class="row">
                       <div class="col span-1-of-3">
