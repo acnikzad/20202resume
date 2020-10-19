@@ -14921,6 +14921,14 @@ a.text-dark:hover, a.text-dark:focus {
   background-attachment: fixed;
 }
 
+.header2 {
+  background-image: linear-gradient(rgba(0,0,0,.3), rgba(0,0,0,.3)), url(../../images/WaterWall.jpg);
+  background-size: cover;
+  background-position: center;
+  height: 100vh;
+  background-attachment: fixed;
+}
+
 .hero {
   margin-top: 100px;
 }
@@ -14987,6 +14995,23 @@ a.text-dark:hover, a.text-dark:focus {
   color: #6D7B3C;
   transform: scale(1.25);
 }
+
+.icon-large {
+  display: inline-block;
+  width: 50px;
+  text-align: center;
+  color: #9FA8A5;
+  font-size: 175%;
+  opacity: .4;
+  transition: transform 0.4s;
+}
+
+.icon-large:hover {
+  opacity: 1;
+  color: #6D7B3C;
+  transform: scale(1.25);
+}
+
 
 .modal-img {
   padding-right: 5%;
@@ -15067,4 +15092,25 @@ html {
 
 .ftr-icon {
   font-size: 200%;
+}
+
+.contact h1 {
+  color: #fff
+}
+
+.contact h2 {
+  color: #fff
+}
+
+.contact h3 {
+  color: #fff
+}
+
+.contact ul {
+  list-style-type: none;
+  text-align: left;
+}
+
+.connect {
+   color: #6D7B3C;
 }

@@ -25,10 +25,10 @@
                   <a class="nav-link plr-8" href="#About">About Me</a>
                 </li>
                 <li class="nav-item">
-                  <a class="nav-link plr-8" href="#portfolio">Portfolio</a>
+                  <a class="nav-link plr-8" href="#Portfolio">Portfolio</a>
                 </li>
                 <li class="nav-item">
-                  <a class="nav-link plr-8" href="#footer">Contact</a>
+                  <a class="nav-link plr-8" href="#Connect">Connect</a>
                 </li>
               </ul>
             </div>
@@ -46,13 +46,13 @@
             <address class="d-block">
               <ul class="list-unstyled ftContctHolder mb-0 text-center text-md-left">
                 <li>Located: <span class="text-white">Sacramento, Ca</span></li>
-                <li>Email: <a href="javascript:void(0);" type="Email">a.c.nikzad@gmail.com</a></li>
+                <li>Email: <a href="mailto:a.c.nikzad@gmail.com" type="Email">a.c.nikzad@gmail.com</a></li>
                 <li>Phone: <a href="tel:4153287478">415 328-7478</a></li>
               </ul>
             </address>
           </div>
           <div class="col span-1-of-3">
-            <span class="ftTxt d-block text-center">"The same boiling water that softens the potato hardens the egg. It's about what you're made of, not the circumstances." - Mel Robbins</span>
+            <span class="ftTxt d-block text-center">"The same boiling water that softens the potato hardens the egg. It's about what you're made of, not the circumstances."</span>
           </div>
           <div class="col span-1-of-3">
             <ul class="list-unstyled ftSocialNetworks d-flex justify-content-center justify-content-lg-end mb-2 mb-sm-0">
