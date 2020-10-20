@@ -439,7 +439,7 @@
               <header class="header text-center mb-8 mb-md-10 mb-xl-14 connect">
                 <h2 class="mb-5">
                   <strong class="h6 font-weight-light mb-3 text-danger text-capitalize d-block fontRoboto">Contact me</strong>
-                  <strong class="text-uppercase d-block">Lets connect!</strong>
+                  <strong class="text-uppercase d-block connect">Lets connect!</strong>
                 </h2>
                 <span class="bdrBtmImg d-block position-relative mx-auto"></span>
               </header>
@@ -468,11 +468,11 @@
                       <br>
                       <br>
                       <div class="row">
-                        <ul class="list-unstyled ftSocialNetworks d-flex justify-content-center justify-content-lg-end mb-2 mb-sm-0">
-                          <li><a href="https://www.linkedin.com/in/arianikzad/" target="_blank" class="fab fa-linkedin icon-large"></a></li>
-                          <li><a href="https://www.instagram.com/acnikzad/?hl=en" target="_blank" class="fab fa-instagram icon-large"></a></li>
-                          <li><a href="https://github.com/acnikzad" target="_blank" class="fab fa-github icon-large"></a></li>
-                        </ul>
+                        <div class="icon-large">
+                          <a href="https://www.linkedin.com/in/arianikzad/" target="_blank" class="fab fa-linkedin"></a>
+                          <a href="https://www.instagram.com/acnikzad/?hl=en" target="_blank" class="fab fa-instagram"></a>
+                          <a href="https://github.com/acnikzad" target="_blank" class="fab fa-github"></a>
+                        </div>
                       </div>
                   </div>
                 </div>

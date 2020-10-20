@@ -14922,7 +14922,7 @@ a.text-dark:hover, a.text-dark:focus {
 }
 
 .header2 {
-  background-image: linear-gradient(rgba(0,0,0,.3), rgba(0,0,0,.3)), url(../../images/C00P.jpg);
+  background-image: linear-gradient(rgba(0,0,0,.5), rgba(0,0,0,.5)), url(../../images/C00P.jpg);
   background-size: cover;
   background-position: center;
   height: 75vh;
@@ -14978,23 +14978,6 @@ a.text-dark:hover, a.text-dark:focus {
   margin-left: 15%;
 }
 
-/*------- ICONS -------*/
-
-.icon-small i {
-  display: inline-block;
-  width: 50px;
-  text-align: center;
-  color: #9FA8A5;
-  font-size: 60%;
-  opacity: .4;
-  transition: transform 0.4s;
-}
-
-.icon-small i:hover {
-  opacity: 1;
-  color: #6D7B3C;
-  transform: scale(1.25);
-}
 
 .modal-img {
   padding-right: 5%;
@@ -15011,6 +14994,7 @@ a.text-dark:hover, a.text-dark:focus {
 .modal-body p {
   font-size: 14px;
 }
+
 
 .modal-body a {
   font-size: 14px;
@@ -15042,9 +15026,8 @@ html {
 
 /* flip speed goes here */
 .flipper {
-  transition: 0.6s;
+  transition: 0.5s;
   transform-style: preserve-3d;
-
   position: relative;
 }
 
@@ -15057,8 +15040,12 @@ html {
   left: 0;
 }
 
-.back.h1 {
-  color: #FF0000;
+.back a {
+  color: #CDC9C6;
+}
+
+.back a:hover {
+  color: #9699A5;
 }
 
 /* front pane, placed above back */
@@ -15075,4 +15062,59 @@ html {
 
 .ftr-icon {
   font-size: 200%;
+}
+
+.contact h1 {
+  color: #fff
+}
+
+.contact h2 {
+  color: #fff
+}
+
+.contact h3 {
+  color: #fff
+}
+
+.contact ul {
+  list-style-type: none;
+  text-align: left;
+}
+
+.connect {
+   color: #CDC9C6;
+}
+
+/*------- ICONS -------*/
+
+.icon-small i {
+  display: inline-block;
+  width: 50px;
+  text-align: center;
+  color: #9FA8A5;
+  font-size: 60%;
+  opacity: .4;
+  transition: transform 0.4s;
+}
+
+.icon-small i:hover {
+  opacity: 1;
+  color: #6D7B3C;
+  transform: scale(1.25);
+}
+
+.icon-large a {
+  display: inline-block;
+  width: 50px;
+  text-align: center;
+  color: #9FA8A5;
+  font-size: 175%;
+  opacity: .4;
+  transition: transform 0.4s;
+}
+
+.icon-large a:hover {
+  opacity: 1;
+  color: #6D7B3C;
+  transform: scale(1.05);
 }

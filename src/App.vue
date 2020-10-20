@@ -22,13 +22,13 @@
                   <a class="nav-link plr-8" href="#Home">Home <span class="sr-only">(current)</span></a>
                 </li>
                 <li class="nav-item">
-                  <a class="nav-link plr-8" href="#About">About Me</a>
+                  <a class="nav-link plr-3" href="#About">About Me</a>
                 </li>
                 <li class="nav-item">
-                  <a class="nav-link plr-8" href="#portfolio">Portfolio</a>
+                  <a class="nav-link plr-5" href="#portfolio">Portfolio</a>
                 </li>
                 <li class="nav-item">
-                  <a class="nav-link plr-8" href="#footer">Contact</a>
+                  <a class="nav-link plr-6" href="#connect">Connect</a>
                 </li>
               </ul>
             </div>
@@ -52,7 +52,7 @@
             </address>
           </div>
           <div class="col span-1-of-3">
-            <span class="ftTxt d-block text-center">"The same boiling water that softens the potato hardens the egg. It's about what you're made of, not the circumstances." - Mel Robbins</span>
+            <span class="ftTxt d-block text-center">"The same boiling water that softens the potato hardens the egg. It's about what you're made of, not the circumstances."</span>
           </div>
           <div class="col span-1-of-3">
             <ul class="list-unstyled ftSocialNetworks d-flex justify-content-center justify-content-lg-end mb-2 mb-sm-0">
