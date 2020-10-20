@@ -14921,6 +14921,14 @@ a.text-dark:hover, a.text-dark:focus {
   background-attachment: fixed;
 }
 
+.header2 {
+  background-image: linear-gradient(rgba(0,0,0,.3), rgba(0,0,0,.3)), url(../../images/C00P.jpg);
+  background-size: cover;
+  background-position: center;
+  height: 75vh;
+  background-attachment: fixed;
+}
+
 .hero {
   margin-top: 100px;
 }

@@ -430,117 +430,53 @@
           </div>
         </div>
       </section>
-<!-- skills -->
-      <section class="pt-12 pt-md-15 pt-xl-19 pb-7 pb-xl-10 bg-light">
+<!-- Connect with me -->
+      <section id="connect" class="abUsSec py-12 py-md-15 py-xl-19 bg-light header2">
         <div class="container">
           <div class="row">
             <div class="col-12">
-  <!-- header -->
-              <header class="header text-center mb-8 mb-md-10 mb-xl-13">
-                <h2 class="mb-5 mb-md-7">
-                  <strong class="h6 font-weight-light mb-3 text-danger text-capitalize d-block fontRoboto">My Expertise</strong>
-                  <strong class="text-uppercase d-block">Skill sets</strong>
+              <!-- header -->
+              <header class="header text-center mb-8 mb-md-10 mb-xl-14 connect">
+                <h2 class="mb-5">
+                  <strong class="h6 font-weight-light mb-3 text-danger text-capitalize d-block fontRoboto">Contact me</strong>
+                  <strong class="text-uppercase d-block">Lets connect!</strong>
                 </h2>
                 <span class="bdrBtmImg d-block position-relative mx-auto"></span>
               </header>
             </div>
           </div>
-          <div class="row">
-            <div class="col-12 col-md-6">
-  <!-- skillProgress -->
-              <article class="skillProgress overflow-hidden mb-7 mb-lg-10">
-                <h4 class="mb-3 heading2 $font-weight-normal">
-                  <strong class="d-inline-block text-uppercase">Ruby on Rails</strong>
-                  <strong class="d-inline-block float-right prsnt text-uppercase">80%</strong>
-                </h4>
-                <div class="progressBar d-block">
-                  <div class="wow over fadeInLeft" style="width: 80%;" data-wow-delay="0.5s"></div>
+          <div class="row align-items-center mb-2 mb-lg-4 mb-xl-7 justify-content-center">
+<!-- Connect Card -->
+            <div class="col-12 col-sm-6 col-lg-4">
+              <div class="flip-container" ontouchstart="this.classList.toggle('hover');">
+                <div class="flipper contact">
+                  <div class="front">
+                    <div class="agnBlock overlay position-relative mb-4 mb-sm-6">
+                      <span class="imgHolder w-100 d-block">
+                        <h1>Need a website?</h1>
+                        <br>
+                        <a href="#About" class="btn btn-lg btn-danger text-uppercase rounded-pill fwSemibold">Contact me!</a>
+                      </span>  
+                    </div>
+                  </div>
+                  <div class="back">
+                    <h2>Aria Nikzad</h2>
+                     <h3>Full Stack Development</h3>
+                      <a href="mailto:a.c.nikzad@gmail.com" type="Email">a.c.nikzad@gmail.com</a>
+                      <br>
+                      <a href="tel:4153287478">415 328-7478</a>
+                      <br>
+                      <br>
+                      <div class="row">
+                        <ul class="list-unstyled ftSocialNetworks d-flex justify-content-center justify-content-lg-end mb-2 mb-sm-0">
+                          <li><a href="https://www.linkedin.com/in/arianikzad/" target="_blank" class="fab fa-linkedin icon-large"></a></li>
+                          <li><a href="https://www.instagram.com/acnikzad/?hl=en" target="_blank" class="fab fa-instagram icon-large"></a></li>
+                          <li><a href="https://github.com/acnikzad" target="_blank" class="fab fa-github icon-large"></a></li>
+                        </ul>
+                      </div>
+                  </div>
                 </div>
-              </article>
-            </div>
-            <div class="col-12 col-md-6">
-              <!-- skillProgress -->
-              <article class="skillProgress overflow-hidden mb-7 mb-lg-10">
-                <h4 class="mb-3 heading2 $font-weight-normal">
-                  <strong class="d-inline-block text-uppercase">Vue.js</strong>
-                  <strong class="d-inline-block float-right prsnt text-uppercase">80%</strong>
-                </h4>
-                <div class="progressBar d-block">
-                  <div class="wow over fadeInLeft" style="width: 80%;" data-wow-delay="0.5s"></div>
-                </div>
-              </article>
-            </div>
-            <div class="col-12 col-md-6">
-              <!-- skillProgress -->
-              <article class="skillProgress overflow-hidden mb-7 mb-lg-10">
-                <h4 class="mb-3 heading2 $font-weight-normal">
-                  <strong class="d-inline-block text-uppercase">HTML/CSS</strong>
-                  <strong class="d-inline-block float-right prsnt text-uppercase">85%</strong>
-                </h4>
-                <div class="progressBar d-block">
-                  <div class="wow over fadeInLeft" style="width: 85%;" data-wow-delay="0.5s"></div>
-                </div>
-              </article>
-            </div>
-            <div class="col-12 col-md-6">
-              <!-- skillProgress -->
-              <article class="skillProgress overflow-hidden mb-7 mb-lg-10">
-                <h4 class="mb-3 heading2 $font-weight-normal">
-                  <strong class="d-inline-block text-uppercase">social media marketing</strong>
-                  <strong class="d-inline-block float-right prsnt text-uppercase">70%</strong>
-                </h4>
-                <div class="progressBar d-block">
-                  <div class="wow over fadeInLeft" style="width: 70%;" data-wow-delay="0.5s"></div>
-                </div>
-              </article>
-            </div>
-            <div class="col-12 col-md-6">
-              <!-- skillProgress -->
-              <article class="skillProgress overflow-hidden mb-7 mb-lg-10">
-                <h4 class="mb-3 heading2 $font-weight-normal">
-                  <strong class="d-inline-block text-uppercase">Javascript</strong>
-                  <strong class="d-inline-block float-right prsnt text-uppercase">55%</strong>
-                </h4>
-                <div class="progressBar d-block">
-                  <div class="wow over fadeInLeft" style="width: 55%;" data-wow-delay="0.5s"></div>
-                </div>
-              </article>
-            </div>
-            <div class="col-12 col-md-6">
-              <!-- skillProgress -->
-              <article class="skillProgress overflow-hidden mb-7 mb-lg-10">
-                <h4 class="mb-3 heading2 $font-weight-normal">
-                  <strong class="d-inline-block text-uppercase">web development</strong>
-                  <strong class="d-inline-block float-right prsnt text-uppercase">80%</strong>
-                </h4>
-                <div class="progressBar d-block">
-                  <div class="wow over fadeInLeft" style="width: 80%;" data-wow-delay="0.5s"></div>
-                </div>
-              </article>
-            </div>
-            <div class="col-12 col-md-6">
-              <!-- skillProgress -->
-              <article class="skillProgress overflow-hidden mb-7 mb-lg-10">
-                <h4 class="mb-3 heading2 $font-weight-normal">
-                  <strong class="d-inline-block text-uppercase">REACT</strong>
-                  <strong class="d-inline-block float-right prsnt text-uppercase">15%</strong>
-                </h4>
-                <div class="progressBar d-block">
-                  <div class="wow over fadeInLeft" style="width: 15%;" data-wow-delay="0.5s"></div>
-                </div>
-              </article>
-            </div>
-            <div class="col-12 col-md-6">
-              <!-- skillProgress -->
-              <article class="skillProgress overflow-hidden mb-7 mb-lg-10">
-                <h4 class="mb-3 heading2 $font-weight-normal">
-                  <strong class="d-inline-block text-uppercase">OBJECT ORIENTED PROGRAMMING</strong>
-                  <strong class="d-inline-block float-right prsnt text-uppercase">75%</strong>
-                </h4>
-                <div class="progressBar d-block">
-                  <div class="wow over fadeInLeft" style="width: 75%;" data-wow-delay="0.5s"></div>
-                </div>
-              </article>
+              </div>
             </div>
           </div>
         </div>
