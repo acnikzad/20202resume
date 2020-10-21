@@ -481,10 +481,6 @@
           </div>
         </div>
       </section>
-<!-- mapHolder -->
-      <div class="mapHolder">
-        <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d86283.41310927564!2d-121.52673576012504!3d38.55496777055841!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sen!2snz!4v1602523858687!5m2!1sen!2snz" width="600" height="450" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
-      </div>
 
   </div>
 
