@@ -4,8 +4,8 @@
       <div class="d-flex align-items-center mx-3 mx-md-6 py-3 py-lg-0">
         <!-- mainLogo -->
         <div class="logo mt-n1">
-          <a href="homepage.html">
-            <h3>Aria Nikzad</h3>
+          <a href="#Home">
+            <h3 class="nav-item name-top">Aria Nikzad</h3>
           </a>
         </div>
         <!-- menuHolder -->

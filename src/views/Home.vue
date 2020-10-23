@@ -462,7 +462,7 @@
                   <div class="back">
                     <h2>Aria Nikzad</h2>
                      <h3>Full Stack Development</h3>
-                      <a href="mailto:a.c.nikzad@gmail.com" type="Email">a.c.nikzad@gmail.com</a>
+                      <a href="mailto:a.c.nikzad@gmail.com?&subject=The%20subject%20of%20the%20email&body=The%20body%20of%20the%20email" type="Email">a.c.nikzad@gmail.com</a>
                       <br>
                       <a href="tel:4153287478">415 328-7478</a>
                       <br>
