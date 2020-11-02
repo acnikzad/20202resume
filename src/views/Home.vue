@@ -137,7 +137,11 @@
             <div class="col-12 col-lg-8 offset-lg-2 text-center">
               <p>Full stack software developer with a background in business, management and entrepreneurship.
                 <br>
-              Prior to entering the world of software engineering, there was a point in my career where the frequency of everyday challenges decreased and thoughts of complacency increased. I engaged each day in repetitive work that presented the same problems and required the same solutions. Creative solutions became obsolete, governed by routines and protocol. The limitations placed on thinking outside the box led me to programming. Programming has allowed me to exercise my imagination to find creative solutions to unique problems. What excites me the most about being in this industry is knowing each day I have the opportunity to exercise and grow my knowledge of software development.
+                <br>
+              Prior to entering the world of software engineering, there was a point in my career where the frequency of everyday challenges decreased and thoughts of complacency increased. The limitations placed on creativity led me to programming. Programming has allowed me to exercise my imagination to find creative solutions to unique problems. What excites me the most about being in this industry is knowing each day I have the opportunity to exercise and grow my knowledge of software development.
+                <br>
+                <br>
+              I am currently in the process of learning React and Solidity, the object-oriented programming language used for writing smart contracts on the ethereum blockchain. 
               </p>
             </div>
           </div>
@@ -462,7 +466,7 @@
                   <div class="back">
                     <h2>Aria Nikzad</h2>
                      <h3>Full Stack Development</h3>
-                      <a href="mailto:a.c.nikzad@gmail.com?&subject=The%20subject%20of%20the%20email&body=The%20body%20of%20the%20email" type="Email">a.c.nikzad@gmail.com</a>
+                      <a href="mailto:a.c.nikzad@gmail.com" type="Email">a.c.nikzad@gmail.com</a>
                       <br>
                       <a href="tel:4153287478">415 328-7478</a>
                       <br>
