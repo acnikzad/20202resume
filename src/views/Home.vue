@@ -379,13 +379,13 @@
             </div>
           </div>
 <!-- 4x4 Teardrops -->
-          <div class="element-item itemIV overflow-hidden transition paid" data-category="transition paid">
+          <div class="element-item itemIV overflow-hidden transition project" data-category="transition project">
             <div class="d-block imgHolder w-100">
-              <a href="#" data-toggle="modal" data-target="#tearModal"><img src="../../public/images/XTR1.jpg" class="img-fluid" alt="image description"></a>
+              <a href="#" data-toggle="modal" data-target="#tearModal"><img src="../../public/images/cars.png" class="img-fluid" alt="image description"></a>
               <div class="overbgBTxt position-absolute">
                 <h3>
-                  <strong class="fwSemibold px-3 d-inline-block h4 d-block mb-0"><a href="javascript:void(0);">4X4 Teardrops</a></strong>
-                  <strong class="fontRoboto px-3 d-inline-block designType text-white">Paid Project</strong>
+                  <strong class="fwSemibold px-3 d-inline-block h4 d-block mb-0"><a href="javascript:void(0);">Cars Database</a></strong>
+                  <strong class="fontRoboto px-3 d-inline-block designType text-white">Project</strong>
                 </h3>
               </div>
             </div>
@@ -394,19 +394,19 @@
                 <div class="modal-content">
                   <div class="modal-header"> 
                     <div class="col span-1-of-2">
-                      <h2>4x4 Teardrop Trailers</h2>
-                      <h3>Customize your own offroad teardrop trailers</h3>
+                      <h2>Cars Database Project</h2>
+                      <h3>Manipulate data stored by using basic CRUD</h3>
                     </div>
                     <div class="col span-1-of-2 date">
-                      <h4>October, 2020</h4>
+                      <h4>March, 2022</h4>
                     </div>
                   </div>
                   <div class="modal-body">
-                    <h3>Coming Soon...</h3>
-                    <!-- <a target="_blank" href="https://www.youtube.com/watch?v=9quKcQxq630&feature=youtu.be&t=2031" >Watch Demo Here</a> -->
+                    <p>A basic CRUD app where the user can add and destroy data. Midway through this project, I left to build MyFinancialSim, a more impressive simulator. I plan to finish basic update and sort features on this soon.</p>
+                    <a target="_blank" href="https://cars-fe.herokuapp.com/" >View Here</a>
                   </div>
                     <div class="row">
-                      <!-- <div class="col span-1-of-1">
+                      <div class="col span-1-of-1">
                         <h4>Skills Used</h4>
                         <ul>
                           <li>Ruby on Rails</li>
@@ -414,13 +414,12 @@
                           <li>Javascript</li>
                           <li>HTML</li>
                           <li>CSS</li>
-                          <li>APIs</li>
-                          <li>Google Maps</li>
+                          <li>Heroku</li>
                           <li>Bootstrap</li>
                         </ul>
-                      </div> -->
+                      </div>
                       <div class="col span-1-of-1">
-                        <!-- <img src="../../public/images/blockhound.jpg" class="img-fluid modal-img"> -->
+                        <img src="../../public/images/cars.png" class="img-fluid modal-img">
                       </div>
                     </div>
                   <div class="modal-footer">
