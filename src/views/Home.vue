@@ -276,28 +276,28 @@
               </div>
             </div>
           </div>
-<!-- Christoffersen Collection -->
-          <div class="element-item itemIV overflow-hidden transition paid" data-category="transition paid">
+<!-- My Financial Sim -->
+          <div class="element-item itemIV overflow-hidden transition project" data-category="transition project">
             <div class="d-block imgHolder w-100">
-              <a href="#" data-toggle="modal" data-target="#ccModal"><img src="../../public/images/CC.jpg" class="img-fluid" alt="image description"></a>
+              <a href="#" data-toggle="modal" data-target="#ccModal"><img src="../../public/images/MFS2.png" class="img-fluid" alt="image description"></a>
               <div class="overbgBTxt position-absolute">
                 <h3>
-                  <strong class="fwSemibold px-3 d-inline-block h4 mb-0 d-block"><a href="javascript:void(0);">Christoffersen Collection</a></strong>
-                  <strong class="fontRoboto px-3 d-inline-block designType text-white">Paid Project</strong>
+                  <strong class="fwSemibold px-3 d-inline-block h4 mb-0 d-block"><a href="javascript:void(0);">My Financial Sim</a></strong>
+                  <strong class="fontRoboto px-3 d-inline-block designType text-white">Project</strong>
                 </h3>
               </div>
             </div>
-<!-- Christoffersen Modal -->
+<!-- MFS Modal -->
             <div class="modal fade" id="ccModal">
               <div class="modal-dialog modal-lg">
                 <div class="modal-content">
                   <div class="modal-header"> 
                     <div class="col span-1-of-2">
-                      <h2>Christoffersen Collection</h2>
+                      <h2>My Financial Sim</h2>
                       <h3>Orchids for your Home</h3>
                     </div>
                     <div class="col span-1-of-2 date">
-                      <h4>October, 2020</h4>
+                      <h4>March - April, 2022</h4>
                     </div>
                   </div>
                   <div class="modal-body">
