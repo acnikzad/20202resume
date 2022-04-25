@@ -23,7 +23,6 @@
                         <i class="devicon-html5-plain"></i>
                         <i class="devicon-bootstrap-plain"></i>
                         <i class="devicon-github-plain"></i>
-                        <i class="ion-social-bitcoin"></i>
                       </div>
                     </div>
                   </div>
@@ -279,7 +278,7 @@
 <!-- My Financial Sim -->
           <div class="element-item itemIV overflow-hidden transition project" data-category="transition project">
             <div class="d-block imgHolder w-100">
-              <a href="#" data-toggle="modal" data-target="#ccModal"><img src="../../public/images/MFS2.png" class="img-fluid" alt="image description"></a>
+              <a href="#" data-toggle="modal" data-target="#MFSModal"><img src="../../public/images/MFS2.png" class="img-fluid" alt="image description"></a>
               <div class="overbgBTxt position-absolute">
                 <h3>
                   <strong class="fwSemibold px-3 d-inline-block h4 mb-0 d-block"><a href="javascript:void(0);">My Financial Sim</a></strong>
@@ -288,39 +287,37 @@
               </div>
             </div>
 <!-- MFS Modal -->
-            <div class="modal fade" id="ccModal">
+            <div class="modal fade" id="MFSModal">
               <div class="modal-dialog modal-lg">
                 <div class="modal-content">
-                  <div class="modal-header"> 
-                    <div class="col span-1-of-2">
+                  <div class="modal-header">
+                    <div class="col span-1-of-2"> 
                       <h2>My Financial Sim</h2>
-                      <h3>Orchids for your Home</h3>
                     </div>
                     <div class="col span-1-of-2 date">
-                      <h4>March - April, 2022</h4>
+                      <h4>March - April 2022</h4>
                     </div>
                   </div>
                   <div class="modal-body">
-                    <h3>Coming Soon...</h3>
-<!--                     <a target="_blank" href="https://www.youtube.com/watch?v=9quKcQxq630&feature=youtu.be&t=2031" >Watch Demo Here</a> -->
-                  </div>
+                    <p>Passionate about teaching the importance of financial health, I wanted to create an app that demonstrates the value of investing over time. Many of my friends thought they would save their way into retirement and were unaware of the effects inflation has on stagnant fiat currency sitting in an account.</p>
+                    <p>I wanted to build something to demonstrate the value of time but I was unsure how to portray it. I thought about how old Real Time Strategy games were won by resource management. It then dawned on me that I would create a simulation over time with a set amount of resources. The object of the simulation will to accrue as much wealth as you can before retirement.</p>
+                    <p>I implemented different avenues one can take to invest and see the real time effects over time. Real estate, crypto, stocks, compound interest and savings accounts. By charting the long term effects, the user can see the power of each investment over time.</p>
+                     <a href="www.MyFinancialSim.com" target="_blank">MyFinancialSim.com</a>
+                    <br>
                     <div class="row">
                       <div class="col span-1-of-3">
-<!--                         <h4>Skills Used</h4>
+                        <h4>Skills Used</h4>
                         <ul>
-                          <li>Ruby on Rails</li>
-                          <li>Vue.js</li>
-                          <li>Javascript</li>
+                          <li>Vuejs</li>
                           <li>HTML</li>
                           <li>CSS</li>
-                          <li>APIs</li>
                           <li>Bootstrap</li>
-                        </ul> -->
-                      </div>
-                      <div class="col span-1-of-2">
-                        <!-- <img src="../../public/images/blockhound.jpg" class="img-fluid modal-img"> -->
+                          <li>Javascript</li>
+                        </ul>
                       </div>
                     </div>
+                    <a href="" data-fancybox="gallery" data-caption="Mockup Can Design"><img src="../../public/images/MFS3.png" class="img-fluid" alt="image description"></a>
+                  </div>
                   <div class="modal-footer">
                     <button class="btn btn-danger text-uppercase rounded-pill fwSemibold" data-dismiss="modal" value="close">Close</button>
                   </div>
