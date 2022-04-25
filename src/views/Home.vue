@@ -10,7 +10,7 @@
               <div class="caption position-relative text-center text-white">
                 <h1 class="h1 text-uppercase text-white mb-4">
                   <div class="row hero-margin">
-                    <img src="../../public/images/2020headshotsidesquare.jpeg" class="hero-pic">
+                    <img src="../../public/images/trail.jpeg" class="hero-pic">
                     <div class="col">
                       <h1 class="d-block font-weight-light mb-n1 mb-sm-2 hero-text">Aria Nikzad</h1>
                       <h2 class="d-block font-weight-light hero-text">Full Stack Developer</h2>
