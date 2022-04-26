@@ -302,7 +302,7 @@
                     <p>Passionate about teaching the importance of financial health, I wanted to create an app that demonstrates the value of investing over time. Many of my friends thought they would save their way into retirement and were unaware of the effects inflation has on stagnant fiat currency sitting in an account.</p>
                     <p>I wanted to build something to demonstrate the value of time but I was unsure how to portray it. I thought about how old Real Time Strategy games were won by resource management. It then dawned on me that I would create a simulation over time with a set amount of resources. The object of the simulation will to accrue as much wealth as you can before retirement.</p>
                     <p>I implemented different avenues one can take to invest and see the real time effects over time. Real estate, crypto, stocks, compound interest and savings accounts. By charting the long term effects, the user can see the power of each investment over time. I created real calculators for real estate mortgage, car loans, compound interest accounts and asset volatility. I used Javascript, HTML, CSS and ChartJS to build the project. I plan to continue working on this.</p>
-                     <a href="www.MyFinancialSim.com" target="_blank">MyFinancialSim.com</a>
+                     <a target="_blank" href="https://www.MyFinancialSim.com">MyFinancialSim.com</a>
                     <br>
                     <div class="row">
                       <div class="col span-1-of-3">
@@ -406,7 +406,7 @@
                     <a target="_blank" href="https://cars-fe.herokuapp.com/" >View Here</a>
                   </div>
                     <div class="row">
-                      <div class="col span-1-of-1">
+                      <div class="col span-1-of-3">
                         <h4>Skills Used</h4>
                         <ul>
                           <li>Ruby on Rails</li>
