@@ -435,8 +435,8 @@
               <a href="#" data-toggle="modal" data-target="#trailers"><img src="../../public/images/XTR1.jpg" class="img-fluid" alt="image description"></a>
               <div class="overbgBTxt position-absolute">
                 <h3>
-                  <strong class="fwSemibold px-3 d-inline-block h4 d-block mb-0"><a href="javascript:void(0);">Cars Database</a></strong>
-                  <strong class="fontRoboto px-3 d-inline-block designType text-white">Project</strong>
+                  <strong class="fwSemibold px-3 d-inline-block h4 d-block mb-0"><a href="javascript:void(0);">4x4 Teardrops</a></strong>
+                  <strong class="fontRoboto px-3 d-inline-block designType text-white">Paid Project</strong>
                 </h3>
               </div>
             </div>
@@ -449,7 +449,7 @@
                       <h3>Offroad Teardrop Trailers</h3>
                     </div>
                     <div class="col span-1-of-2 date">
-                      <h4>March, 2022</h4>
+                      <h4>May, 2021</h4>
                     </div>
                   </div>
                   <div class="modal-body">
@@ -472,6 +472,54 @@
                         <img src="../../public/images/XTR1.jpg" class="img-fluid modal-img">
                       </div>
                     </div>
+                  <div class="modal-footer">
+                    <button class="btn btn-danger text-uppercase rounded-pill fwSemibold" data-dismiss="modal" value="close">Close</button>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+<!-- Omnifood -->
+          <div class="element-item itemIV overflow-hidden transition project" data-category="transition project">
+            <div class="d-block imgHolder w-100">
+              <a href="#" data-toggle="modal" data-target="#omni"><img src="../../public/images/Omnifood.png" class="img-fluid" alt="image description"></a>
+              <div class="overbgBTxt position-absolute">
+                <h3>
+                  <strong class="fwSemibold px-3 d-inline-block h4 d-block mb-0"><a href="javascript:void(0);">Omnifood Project</a></strong>
+                  <strong class="fontRoboto px-3 d-inline-block designType text-white">Project</strong>
+                </h3>
+              </div>
+            </div>
+            <div class="modal fade" id="omni">
+              <div class="modal-dialog modal-lg">
+                <div class="modal-content">
+                  <div class="modal-header"> 
+                    <div class="col span-1-of-2">
+                      <h2>Udemy Project</h2>
+                      <h3>Omnifood</h3>
+                    </div>
+                    <div class="col span-1-of-2 date">
+                      <h4>May, 2021</h4>
+                    </div>
+                  </div>
+                  <div class="modal-body">
+                    <p>This was a front end project from Udemy practicing HTML, CSS and Javascript. I learned important CSS concepts such as the box model, positioning schemes, inheritance, solving selector conflicts, etc. I also learned how to use common components and layout patterns for professional website design and development. I used Modern CSS (previous CSS3), including flexbox and CSS Grid for layout. This was a 37 hour course.</p>
+                    <a target="_blank" href="https://creative-centaur-5208e2.netlify.app/" >View Here</a>
+                  </div>
+                  <div class="row">
+                    <div class="col span-1-of-1">
+                      <h4>Skills Used</h4>
+                      <ul>
+                        <li>Javascript</li>
+                        <li>HTML</li>
+                        <li>CSS</li>
+                        <li>Netflify</li>
+                      </ul>
+                    </div>
+                  </div>
+                  <div class="col span-2-of-3">
+                    <img src="../../public/images/omnifood.jpeg" class="img-fluid modal-img">
+                  </div>
                   <div class="modal-footer">
                     <button class="btn btn-danger text-uppercase rounded-pill fwSemibold" data-dismiss="modal" value="close">Close</button>
                   </div>
