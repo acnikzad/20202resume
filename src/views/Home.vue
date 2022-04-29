@@ -378,7 +378,7 @@
               </div>
             </div>
           </div>
-<!-- 4x4 Teardrops -->
+<!-- Cars -->
           <div class="element-item itemIV overflow-hidden transition project" data-category="transition project">
             <div class="d-block imgHolder w-100">
               <a href="#" data-toggle="modal" data-target="#tearModal"><img src="../../public/images/cars.png" class="img-fluid" alt="image description"></a>
@@ -420,6 +420,56 @@
                       </div>
                       <div class="col span-1-of-1">
                         <img src="../../public/images/cars.png" class="img-fluid modal-img">
+                      </div>
+                    </div>
+                  <div class="modal-footer">
+                    <button class="btn btn-danger text-uppercase rounded-pill fwSemibold" data-dismiss="modal" value="close">Close</button>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+<!-- 4x4 -->
+          <div class="element-item itemIV overflow-hidden transition paid" data-category="transition paid">
+            <div class="d-block imgHolder w-100">
+              <a href="#" data-toggle="modal" data-target="#trailers"><img src="../../public/images/XTR1.jpg" class="img-fluid" alt="image description"></a>
+              <div class="overbgBTxt position-absolute">
+                <h3>
+                  <strong class="fwSemibold px-3 d-inline-block h4 d-block mb-0"><a href="javascript:void(0);">Cars Database</a></strong>
+                  <strong class="fontRoboto px-3 d-inline-block designType text-white">Project</strong>
+                </h3>
+              </div>
+            </div>
+            <div class="modal fade" id="trailers">
+              <div class="modal-dialog modal-lg">
+                <div class="modal-content">
+                  <div class="modal-header"> 
+                    <div class="col span-1-of-2">
+                      <h2>4x4 Teardrops</h2>
+                      <h3>Offroad Teardrop Trailers</h3>
+                    </div>
+                    <div class="col span-1-of-2 date">
+                      <h4>March, 2022</h4>
+                    </div>
+                  </div>
+                  <div class="modal-body">
+                    <p>I was contracted to build a website in partnership with Vintage Trailer Works Inc. I built a static site using Vue.js. The client wanted to list all options and prices for each model. I created elements that display and hide the options when clicked using HTML and CSS. Midway through the build, the partner left the company and the project was left unfinished.</p>
+                    <a target="_blank" href="https://kirby-trailers.netlify.app/" >View Here</a>
+                  </div>
+                    <div class="row">
+                      <div class="col span-1-of-3">
+                        <h4>Skills Used</h4>
+                        <ul>
+                          <li>Vue.js</li>
+                          <li>Javascript</li>
+                          <li>HTML</li>
+                          <li>CSS</li>
+                          <li>Netflify</li>
+                          <li>Bootstrap</li>
+                        </ul>
+                      </div>
+                      <div class="col span-1-of-1">
+                        <img src="../../public/images/XTR1.jpg" class="img-fluid modal-img">
                       </div>
                     </div>
                   <div class="modal-footer">
