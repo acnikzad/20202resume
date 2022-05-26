@@ -52,7 +52,7 @@
             </address>
           </div>
           <div class="col span-1-of-3">
-            <span class="ftTxt d-block text-center">"The same boiling water that softens the potato hardens the egg. It's about what you're made of, not the circumstances."</span>
+            <span class="ftTxt d-block text-center">"The same boiling water that softens the potato hardens the egg."</span>
           </div>
           <div class="col span-1-of-3">
             <ul class="list-unstyled ftSocialNetworks d-flex justify-content-center justify-content-lg-end mb-2 mb-sm-0">

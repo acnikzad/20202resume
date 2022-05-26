@@ -124,8 +124,10 @@
                      <p>Online Courses<br>Software Development</p>
                     <ul>
                       <li>Ruby on Rails</li>
+                      <li>Javascript</li>
                       <li>HTML/CSS</li>
                       <li>React</li>
+                      <li>Nuxt.js</li>
                     </ul>
                   </div>
                 </div>
