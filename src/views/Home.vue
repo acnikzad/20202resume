@@ -555,8 +555,7 @@
                     <div class="agnBlock overlay position-relative mb-4 mb-sm-6">
                       <span class="imgHolder w-100 d-block">
                         <h1>Need a website?</h1>
-                        <br>
-                        <a href="#About" class="btn btn-lg btn-danger text-uppercase rounded-pill fwSemibold">Contact me!</a>
+                        <br> <a href="#About" class="btn btn-lg btn-danger text-uppercase rounded-pill fwSemibold">Contact me!</a>
                       </span>  
                     </div>
                   </div>
