@@ -529,6 +529,62 @@
               </div>
             </div>
           </div>
+<!-- Courses -->
+          <div class="element-item itemIV overflow-hidden transition project" data-category="transition project">
+            <div class="d-block imgHolder w-100">
+              <a href="#" data-toggle="modal" data-target="#courses"><img src="../../public/images/courses.jpeg" class="img-fluid" alt="image description"></a>
+              <div class="overbgBTxt position-absolute">
+                <h3>
+                  <strong class="fwSemibold px-3 d-inline-block h4 d-block mb-0"><a href="javascript:void(0);">Courses Project</a></strong>
+                  <strong class="fontRoboto px-3 d-inline-block designType text-white">Project</strong>
+                </h3>
+              </div>
+            </div>
+            <div class="modal fade" id="courses">
+              <div class="modal-dialog modal-lg">
+                <div class="modal-content">
+                  <div class="modal-header"> 
+                    <div class="col span-1-of-2">
+                      <h2>Fullstack Courses Project</h2>
+                      <h3>Omnifood</h3>
+                    </div>
+                    <div class="col span-1-of-2 date">
+                      <h4>June/July, 2022</h4>
+                    </div>
+                  </div>
+                  <div class="modal-body">
+                    <p>This fullstack project uses Ruby on Rails as the backend and Vuejs as the frontend. This project shows in depth knowledge of backend development, frontend development, and database design. The user can choose a class to display enrolled students, and teachers. The user can choose a student or teacher to see enrolled classes.</p>
+                    <p>Students have many courses.</p>
+                    <p>Teachers have many courses.</p>
+                    <p>Courses have many teachers and many students.</p>
+                    <a target="_blank" href="https://courses-vue.herokuapp.com/" >View Here</a>
+                  </div>
+                  <div class="row">
+                    <div class="col span-1-of-1">
+                      <h4>Skills Used</h4>
+                      <ul>
+                        <li>Ruby on Rails</li>
+                        <li>Javascript</li>
+                        <li>HTML</li>
+                        <li>CSS</li>
+                        <li>APIs</li>
+                        <li>Database design</li>
+                        <li>Join Tables</li>
+                        <li>Bootstrap</li>
+                        <li>Heroku</li>
+                      </ul>
+                    </div>
+                  </div>
+                  <div class="col span-2-of-3">
+                    <img src="../../public/images/courses.jpeg" class="img-fluid modal-img">
+                  </div>
+                  <div class="modal-footer">
+                    <button class="btn btn-danger text-uppercase rounded-pill fwSemibold" data-dismiss="modal" value="close">Close</button>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
         </div>
       </section>
 <!-- Connect with me -->
