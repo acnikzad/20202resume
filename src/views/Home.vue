@@ -211,10 +211,10 @@
             </div>
             <div class="row mb-3 mb-sm-5 mb-lg-7 mb-xl-9">
               <div class="col-12 col-lg-8 offset-lg-2 text-center">
-                <p>Through years of education, I discovered I leaned more left brain: a logical, linear, precise thinker. I valued facts over holistic thinking. This is why I had a knack for mathematics. Math was always my strong point, completing advanced courses through Business Calculus. Translating to the world of software development, I enjoy creating algorithms using logic and reason. The challenge of trying to discover a new perspective on a problem excites me as much as the learning process that ensues 
+                <p>Through years of education, I discovered I leaned more left brain: a logical, linear and precise thinker. I value facts over holistic thinking. This is why I had a knack for mathematics. Math was always my strong point in high school and college, completing advanced courses such as Calc and Business Calc. Translating to the world of software development, I enjoy creating algorithms using logic and reason. The challenge of discovering a new perspective on a problem excites me as much as the learning process that ensues. 
                   <br>
                   <br>
-                Coding turned from a unknown foreign language, to an interest, to a skillset, to a passion and, soon, to a career.
+                Coding turned from a unknown foreign language, to an interest, to a skillset, to a passion and, soon to be, a career.
                 </p>
               </div>
             </div>
