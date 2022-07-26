@@ -14960,6 +14960,12 @@ a.text-dark:hover, a.text-dark:focus {
   padding-left: 10%;
 }
 
+.hero-sub-text {
+  color: #CDC9C6;
+  text-align: left;
+  padding-left: 10%;
+}
+
 .hero-boxes {
   margin-top: 30px;
 }

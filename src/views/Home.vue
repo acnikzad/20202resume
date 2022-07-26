@@ -14,6 +14,7 @@
                     <div class="col">
                       <h1 class="d-block font-weight-light mb-n1 mb-sm-2 hero-text">Aria Nikzad</h1>
                       <h2 class="d-block font-weight-light hero-text">Full Stack Developer</h2>
+                      <h6 class="font-weight-light hero-sub-text">with a background in business, management and entrepreneurship</h6>
                       <div class="icon-small">
                         <i class="devicon-ruby-plain"></i>
                         <i class="devicon-rails-plain"></i>
@@ -35,7 +36,7 @@
         </div>
       </div>
     </section>
-    <!-- about me -->
+<!-- about me -->
     <section id="About" class="abUsSec py-12 py-md-15 py-xl-19 bg-light">
         <div class="container">
           <div class="row">
@@ -43,7 +44,7 @@
               <!-- header -->
               <header class="header text-center mb-8 mb-md-10 mb-xl-14">
                 <h2 class="mb-5">
-                  <strong class="h6 font-weight-light mb-3 text-danger text-capitalize d-block fontRoboto">About Me</strong>
+                  <strong class="h6 font-weight-light mb-3 text-danger text-capitalize d-block fontRoboto">What I Know</strong>
                   <strong class="text-uppercase d-block">Education</strong>
                 </h2>
                 <span class="bdrBtmImg d-block position-relative mx-auto"></span>
@@ -64,7 +65,7 @@
                   </div>
                   <div class="back">
                     <h3>San Francisco State University</h3>
-                    <p>Bachelor of Business Administration: Marketing</p>
+                    <p>Bachelor of Business Administration: Marketing - <b>2016</b></p>
                     <ul>
                       <li>Information Systems Technology</li>
                       <li>Marketing Research</li>
@@ -93,7 +94,7 @@
                   </div>
                   <div class="back">
                     <h3>Actualize Coding Bootcamp</h3>
-                     <p>Certification of Completion:<br>Full Stack Development</p>
+                     <p>Certification of Completion:<br>Full Stack Development - <b>2019</b></p>
                     <ul>
                       <li>Ruby on Rails</li>
                       <li>Vue.js</li>
@@ -121,33 +122,104 @@
                   </div>
                   <div class="back">
                     <h3>Udemy</h3>
-                     <p>Online Courses<br>Software Development</p>
+                     <p>Online Courses<br>Software Development - <b>Present</b></p>
                     <ul>
                       <li>Ruby on Rails</li>
                       <li>Javascript</li>
                       <li>HTML/CSS</li>
                       <li>React</li>
                       <li>Nuxt.js</li>
+                      <li>SQL Bootcamp</li>
                     </ul>
                   </div>
                 </div>
               </div>
             </div>
           </div>
-          <div class="row mb-3 mb-sm-5 mb-lg-7 mb-xl-9">
-            <div class="col-12 col-lg-8 offset-lg-2 text-center">
-              <p>Full stack software developer with a background in business, management and entrepreneurship.
-                <br>
-                <br>
-              Prior to entering the world of software engineering, there was a point in my career where the frequency of everyday challenges decreased and thoughts of complacency increased. The limitations placed on creativity led me to programming. Programming has allowed me to exercise my imagination to find creative solutions to unique problems. What excites me the most about being in this industry is knowing each day I have the opportunity to exercise and grow my knowledge of software development.
-                <br>
-                <br>
-              I am currently in the process of learning React and Solidity, the object-oriented programming language used for writing smart contracts on the ethereum blockchain. 
-              </p>
-            </div>
-          </div>
         </div>
       </section>
+<!-- about me -->
+      <section id="About" class="abUsSec py-12 py-md-15 py-xl-19 bg-light">
+          <div class="container">
+            <div class="row">
+              <div class="col-12">
+                <!-- header -->
+                <header class="header text-center mb-8 mb-md-10 mb-xl-14">
+                  <h2 class="mb-5">
+                    <strong class="h6 font-weight-light mb-3 text-danger text-capitalize d-block fontRoboto">What I Do</strong>
+                    <strong class="text-uppercase d-block">Work Experience</strong>
+                  </h2>
+                  <span class="bdrBtmImg d-block position-relative mx-auto"></span>
+                </header>
+              </div>
+            </div>
+            <div class="row align-items-center mb-2 mb-lg-4 mb-xl-7 justify-content-center">
+<!-- SFSU -->
+              <div class="col-12 col-sm-6 col-lg-4">
+                <div class="flip-container" ontouchstart="this.classList.toggle('hover');">
+                  <div class="flipper">
+                    <div class="front">
+                      <div class="agnBlock overlay position-relative mb-4 mb-sm-6">
+                        <span class="imgHolder w-100 d-block">
+                          <img src="../../public/images/costco-png.png" class="img-fluid" alt="image description">
+                        </span>
+                      </div>
+                    </div>
+                    <div class="back">
+                      <h3>Costco Wholesale</h3>
+                      <p>Morning Merchandising Manager<br><b>2005 - Present</b></p>
+                      <ul>
+                        <li>Manages 50+ employees daily</li>
+                        <li>Trusted to know sales figures and forecasts</li>
+                        <li>Trusted to know current inventory and sales trends</li>
+                        <li>Trusted to make decisions based of proper merchandising priciples</li>
+                        <li>Recruits, coaches, develops and leads a cohesive team</li>
+                        <li>Develops and submits reports of current figures</li>
+                        <li>Routinely meets sales benchmarks</li>
+                      </ul>
+                    </div>
+                  </div>
+                </div>
+              </div>
+  <!-- Actualize -->
+              <div class="col-12 col-sm-6 col-lg-4">
+                <div class="flip-container" ontouchstart="this.classList.toggle('hover');">
+                  <div class="flipper">
+                    <div class="front">
+                      <div class="agnBlock overlay position-relative mb-4 mb-sm-6">
+                        <span class="imgHolder w-100 d-block">
+                          <img src="../../public/images/gvol-logo-3d.png" class="img-fluid" alt="image description">
+                        </span>  
+                      </div>
+                    </div>
+                    <div class="back">
+                      <h3>Genesis Volatility</h3>
+                       <p>Project Manager<br><b>2021 - Present</b></p>
+                      <ul>
+                        <li>Link between founders and dev team</li>
+                        <li>Configures work flow</li>
+                        <li>Manags the dev team</li>
+                        <li>Researches processes</li>
+                        <li>Networks with industry leaders</li>
+                        <li>Manages finances</li>
+                        <li>Monitors and reports crypto transactions</li>
+                      </ul>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="row mb-3 mb-sm-5 mb-lg-7 mb-xl-9">
+              <div class="col-12 col-lg-8 offset-lg-2 text-center">
+                <p>Through years of education, I discovered I leaned more left brain: a logical, linear, precise thinker. I valued facts over holistic thinking. This is why I had a knack for mathematics. Math was always my strong point, completing advanced courses through Business Calculus. Translating to the world of software development, I enjoy creating algorithms using logic and reason. The challenge of trying to discover a new perspective on a problem excites me as much as the learning process that ensues 
+                  <br>
+                  <br>
+                Coding turned from a unknown foreign language, to an interest, to a skillset, to a passion and, soon, to a career.
+                </p>
+              </div>
+            </div>
+          </div>
+        </section>
 <!-- Portfolio -->
     <section class="pt-12 pt-md-15 pt-xl-19" id="portfolio">
         <div class="container">
