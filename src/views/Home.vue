@@ -172,10 +172,10 @@
                         <li>Manages 50+ employees daily</li>
                         <li>Trusted to know sales figures and forecasts</li>
                         <li>Trusted to know current inventory and sales trends</li>
-                        <li>Trusted to make decisions based of proper merchandising priciples</li>
+                        <li>Trusted to make decisions based on proper merchandising priciples</li>
                         <li>Recruits, coaches, develops and leads a cohesive team</li>
                         <li>Develops and submits reports of current figures</li>
-                        <li>Routinely meets sales benchmarks</li>
+                        <li>Routinely pushes and meets sales benchmarks</li>
                       </ul>
                     </div>
                   </div>
