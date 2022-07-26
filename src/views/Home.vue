@@ -198,7 +198,7 @@
                       <ul>
                         <li>Link between founders and dev team</li>
                         <li>Configures work flow</li>
-                        <li>Manags the dev team</li>
+                        <li>Manages the dev team</li>
                         <li>Researches processes</li>
                         <li>Networks with industry leaders</li>
                         <li>Manages finances</li>
