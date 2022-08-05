@@ -246,6 +246,161 @@
         </div>
 <!-- gridFilterWrap -->
         <div class="gridFilterWrap d-flex flex-wrap">
+          <!-- Courses -->
+          <div class="element-item itemIV overflow-hidden transition project" data-category="transition project">
+            <div class="d-block imgHolder w-100">
+              <a href="#" data-toggle="modal" data-target="#courses"><img src="../../public/images/courses.jpeg" class="img-fluid" alt="image description"></a>
+              <div class="overbgBTxt position-absolute">
+                <h3>
+                  <strong class="fwSemibold px-3 d-inline-block h4 d-block mb-0"><a href="javascript:void(0);">Courses Project</a></strong>
+                  <strong class="fontRoboto px-3 d-inline-block designType text-white">Ruby on Rails | Vuejs</strong>
+                </h3>
+              </div>
+            </div>
+            <div class="modal fade" id="courses">
+              <div class="modal-dialog modal-lg">
+                <div class="modal-content">
+                  <div class="modal-header"> 
+                    <div class="col span-1-of-2">
+                      <h2>Fullstack Courses Project</h2>
+                      <h3>Omnifood</h3>
+                    </div>
+                    <div class="col span-1-of-2 date">
+                      <h4>June/July, 2022</h4>
+                    </div>
+                  </div>
+                  <div class="modal-body">
+                    <p>This fullstack project uses Ruby on Rails as the backend and Vuejs as the frontend. This project shows in depth knowledge of backend development, frontend development, and database design. The user can choose a class to display enrolled students, and teachers. The user can choose a student or teacher to see enrolled classes.</p>
+                    <p>Students have many courses.</p>
+                    <p>Teachers have many courses.</p>
+                    <p>Courses have many teachers and many students.</p>
+                    <a target="_blank" href="https://courses-vue.herokuapp.com/" >View Here</a>
+                  </div>
+                  <div class="row">
+                    <div class="col span-1-of-1">
+                      <h4>Skills Used</h4>
+                      <ul>
+                        <li>Ruby on Rails</li>
+                        <li>Javascript</li>
+                        <li>HTML</li>
+                        <li>CSS</li>
+                        <li>APIs</li>
+                        <li>Database design</li>
+                        <li>Join Tables</li>
+                        <li>Bootstrap</li>
+                        <li>Heroku</li>
+                      </ul>
+                    </div>
+                  </div>
+                  <div class="col span-2-of-3">
+                    <img src="../../public/images/courses.jpeg" class="img-fluid modal-img">
+                  </div>
+                  <div class="modal-footer">
+                    <button class="btn btn-danger text-uppercase rounded-pill fwSemibold" data-dismiss="modal" value="close">Close</button>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <!-- My Financial Sim -->
+          <div class="element-item itemIV overflow-hidden transition project" data-category="transition project">
+            <div class="d-block imgHolder w-100">
+              <a href="#" data-toggle="modal" data-target="#MFSModal"><img src="../../public/images/MFS2.png" class="img-fluid" alt="image description"></a>
+              <div class="overbgBTxt position-absolute">
+                <h3>
+                  <strong class="fwSemibold px-3 d-inline-block h4 mb-0 d-block"><a href="javascript:void(0);">My Financial Sim</a></strong>
+                  <strong class="fontRoboto px-3 d-inline-block designType text-white">Vuejs</strong>
+                </h3>
+              </div>
+            </div>
+<!-- MFS Modal -->
+            <div class="modal fade" id="MFSModal">
+              <div class="modal-dialog modal-lg">
+                <div class="modal-content">
+                  <div class="modal-header">
+                    <div class="col span-1-of-2"> 
+                      <h2>My Financial Sim</h2>
+                    </div>
+                    <div class="col span-1-of-2 date">
+                      <h4>March - April 2022</h4>
+                    </div>
+                  </div>
+                  <div class="modal-body">
+                    <p>Passionate about teaching the importance of financial health, I wanted to create an app that demonstrates the value of investing over time. Many of my friends thought they would save their way into retirement and were unaware of the effects inflation has on stagnant fiat currency sitting in an account.</p>
+                    <p>I wanted to build something to demonstrate the value of time but I was unsure how to portray it. I thought about how old Real Time Strategy games were won by resource management. It then dawned on me that I would create a simulation over time with a set amount of resources. The object of the simulation will to accrue as much wealth as you can before retirement.</p>
+                    <p>I implemented different avenues one can take to invest and see the real time effects over time. Real estate, crypto, stocks, compound interest and savings accounts. By charting the long term effects, the user can see the power of each investment over time. I created real calculators for real estate mortgage, car loans, compound interest accounts and asset volatility. I used Javascript, HTML, CSS and ChartJS to build the project. I plan to continue working on this.</p>
+                     <a target="_blank" href="https://www.MyFinancialSim.com">MyFinancialSim.com</a>
+                    <br>
+                    <div class="row">
+                      <div class="col span-1-of-3">
+                        <h4>Skills Used</h4>
+                        <ul>
+                          <li>Vuejs</li>
+                          <li>HTML</li>
+                          <li>CSS</li>
+                          <li>Bootstrap</li>
+                          <li>Javascript</li>
+                          <li>ChartJS</li>
+                        </ul>
+                      </div>
+                    </div>
+                    <a href="" data-fancybox="gallery" data-caption="Mockup Can Design"><img src="../../public/images/MFS3.png" class="img-fluid" alt="image description"></a>
+                  </div>
+                  <div class="modal-footer">
+                    <button class="btn btn-danger text-uppercase rounded-pill fwSemibold" data-dismiss="modal" value="close">Close</button>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+<!-- Omnifood -->
+          <div class="element-item itemIV overflow-hidden transition project" data-category="transition project">
+            <div class="d-block imgHolder w-100">
+              <a href="#" data-toggle="modal" data-target="#omni"><img src="../../public/images/Omnifood.png" class="img-fluid" alt="image description"></a>
+              <div class="overbgBTxt position-absolute">
+                <h3>
+                  <strong class="fwSemibold px-3 d-inline-block h4 d-block mb-0"><a href="javascript:void(0);">Omnifood Project</a></strong>
+                  <strong class="fontRoboto px-3 d-inline-block designType text-white">HTML/CSS</strong>
+                </h3>
+              </div>
+            </div>
+            <div class="modal fade" id="omni">
+              <div class="modal-dialog modal-lg">
+                <div class="modal-content">
+                  <div class="modal-header"> 
+                    <div class="col span-1-of-2">
+                      <h2>Udemy Project</h2>
+                      <h3>Omnifood</h3>
+                    </div>
+                    <div class="col span-1-of-2 date">
+                      <h4>May, 2021</h4>
+                    </div>
+                  </div>
+                  <div class="modal-body">
+                    <p>This was a front end project from Udemy practicing HTML, CSS and Javascript. I learned important CSS concepts such as the box model, positioning schemes, inheritance, solving selector conflicts, etc. I also learned how to use common components and layout patterns for professional website design and development. I used Modern CSS (previous CSS3), including flexbox and CSS Grid for layout. This was a 37 hour course.</p>
+                    <a target="_blank" href="https://creative-centaur-5208e2.netlify.app/" >View Here</a>
+                  </div>
+                  <div class="row">
+                    <div class="col span-1-of-1">
+                      <h4>Skills Used</h4>
+                      <ul>
+                        <li>Javascript</li>
+                        <li>HTML</li>
+                        <li>CSS</li>
+                        <li>Netflify</li>
+                      </ul>
+                    </div>
+                  </div>
+                  <div class="col span-2-of-3">
+                    <img src="../../public/images/omnifood.jpeg" class="img-fluid modal-img">
+                  </div>
+                  <div class="modal-footer">
+                    <button class="btn btn-danger text-uppercase rounded-pill fwSemibold" data-dismiss="modal" value="close">Close</button>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
 <!-- CLS -->
           <div class="element-item itemIV overflow-hidden transition paid" data-category="transition paid">
             <div class="d-block imgHolder w-100">
@@ -253,7 +408,7 @@
               <div class="overbgBTxt position-absolute">
                 <h3>
                   <strong class="fwSemibold px-3 d-inline-block h4 mb-0 d-block"><a href="javascript:void(0);">Concrete Landscape Services</a></strong>
-                  <strong class="fontRoboto px-3 d-inline-block designType text-white">Paid Project</strong>
+                  <strong class="fontRoboto px-3 d-inline-block designType text-white">Vuejs</strong>
                 </h3>
               </div>
             </div>
@@ -301,7 +456,7 @@
               <div class="overbgBTxt position-absolute">
                 <h3>
                   <strong class="fwSemibold px-3 d-inline-block h4 mb-0 d-block"><a href="javascript:void(0);">BlockHound</a></strong>
-                  <strong class="fontRoboto px-3 d-inline-block designType text-white">Project</strong>
+                  <strong class="fontRoboto px-3 d-inline-block designType text-white">Ruby on Rails | Vuejs</strong>
                 </h3>
               </div>
             </div>
@@ -342,57 +497,6 @@
                         <img src="../../public/images/blockhound.jpg" class="img-fluid modal-img">
                       </div>
                     </div>
-                  <div class="modal-footer">
-                    <button class="btn btn-danger text-uppercase rounded-pill fwSemibold" data-dismiss="modal" value="close">Close</button>
-                  </div>
-                </div>
-              </div>
-            </div>
-          </div>
-<!-- My Financial Sim -->
-          <div class="element-item itemIV overflow-hidden transition project" data-category="transition project">
-            <div class="d-block imgHolder w-100">
-              <a href="#" data-toggle="modal" data-target="#MFSModal"><img src="../../public/images/MFS2.png" class="img-fluid" alt="image description"></a>
-              <div class="overbgBTxt position-absolute">
-                <h3>
-                  <strong class="fwSemibold px-3 d-inline-block h4 mb-0 d-block"><a href="javascript:void(0);">My Financial Sim</a></strong>
-                  <strong class="fontRoboto px-3 d-inline-block designType text-white">Project</strong>
-                </h3>
-              </div>
-            </div>
-<!-- MFS Modal -->
-            <div class="modal fade" id="MFSModal">
-              <div class="modal-dialog modal-lg">
-                <div class="modal-content">
-                  <div class="modal-header">
-                    <div class="col span-1-of-2"> 
-                      <h2>My Financial Sim</h2>
-                    </div>
-                    <div class="col span-1-of-2 date">
-                      <h4>March - April 2022</h4>
-                    </div>
-                  </div>
-                  <div class="modal-body">
-                    <p>Passionate about teaching the importance of financial health, I wanted to create an app that demonstrates the value of investing over time. Many of my friends thought they would save their way into retirement and were unaware of the effects inflation has on stagnant fiat currency sitting in an account.</p>
-                    <p>I wanted to build something to demonstrate the value of time but I was unsure how to portray it. I thought about how old Real Time Strategy games were won by resource management. It then dawned on me that I would create a simulation over time with a set amount of resources. The object of the simulation will to accrue as much wealth as you can before retirement.</p>
-                    <p>I implemented different avenues one can take to invest and see the real time effects over time. Real estate, crypto, stocks, compound interest and savings accounts. By charting the long term effects, the user can see the power of each investment over time. I created real calculators for real estate mortgage, car loans, compound interest accounts and asset volatility. I used Javascript, HTML, CSS and ChartJS to build the project. I plan to continue working on this.</p>
-                     <a target="_blank" href="https://www.MyFinancialSim.com">MyFinancialSim.com</a>
-                    <br>
-                    <div class="row">
-                      <div class="col span-1-of-3">
-                        <h4>Skills Used</h4>
-                        <ul>
-                          <li>Vuejs</li>
-                          <li>HTML</li>
-                          <li>CSS</li>
-                          <li>Bootstrap</li>
-                          <li>Javascript</li>
-                          <li>ChartJS</li>
-                        </ul>
-                      </div>
-                    </div>
-                    <a href="" data-fancybox="gallery" data-caption="Mockup Can Design"><img src="../../public/images/MFS3.png" class="img-fluid" alt="image description"></a>
-                  </div>
                   <div class="modal-footer">
                     <button class="btn btn-danger text-uppercase rounded-pill fwSemibold" data-dismiss="modal" value="close">Close</button>
                   </div>
@@ -444,211 +548,6 @@
                       </div>
                     </div>
                     <a href="" data-fancybox="gallery" data-caption="Mockup Can Design"><img src="../../public/images/greens.jpg" class="img-fluid" alt="image description"></a>
-                  </div>
-                  <div class="modal-footer">
-                    <button class="btn btn-danger text-uppercase rounded-pill fwSemibold" data-dismiss="modal" value="close">Close</button>
-                  </div>
-                </div>
-              </div>
-            </div>
-          </div>
-<!-- Cars -->
-          <div class="element-item itemIV overflow-hidden transition project" data-category="transition project">
-            <div class="d-block imgHolder w-100">
-              <a href="#" data-toggle="modal" data-target="#tearModal"><img src="../../public/images/cars.png" class="img-fluid" alt="image description"></a>
-              <div class="overbgBTxt position-absolute">
-                <h3>
-                  <strong class="fwSemibold px-3 d-inline-block h4 d-block mb-0"><a href="javascript:void(0);">Cars Database</a></strong>
-                  <strong class="fontRoboto px-3 d-inline-block designType text-white">Project</strong>
-                </h3>
-              </div>
-            </div>
-            <div class="modal fade" id="tearModal">
-              <div class="modal-dialog modal-lg">
-                <div class="modal-content">
-                  <div class="modal-header"> 
-                    <div class="col span-1-of-2">
-                      <h2>Cars Database Project</h2>
-                      <h3>Manipulate data stored by using basic CRUD</h3>
-                    </div>
-                    <div class="col span-1-of-2 date">
-                      <h4>March, 2022</h4>
-                    </div>
-                  </div>
-                  <div class="modal-body">
-                    <p>A basic CRUD app where the user can add and destroy data. Midway through this project, I left to build MyFinancialSim, a more impressive simulator. I plan to finish basic update and sort features on this soon.</p>
-                    <a target="_blank" href="https://cars-fe.herokuapp.com/" >View Here</a>
-                  </div>
-                    <div class="row">
-                      <div class="col span-1-of-3">
-                        <h4>Skills Used</h4>
-                        <ul>
-                          <li>Ruby on Rails</li>
-                          <li>Vue.js</li>
-                          <li>Javascript</li>
-                          <li>HTML</li>
-                          <li>CSS</li>
-                          <li>Heroku</li>
-                          <li>Bootstrap</li>
-                        </ul>
-                      </div>
-                      <div class="col span-1-of-1">
-                        <img src="../../public/images/cars.png" class="img-fluid modal-img">
-                      </div>
-                    </div>
-                  <div class="modal-footer">
-                    <button class="btn btn-danger text-uppercase rounded-pill fwSemibold" data-dismiss="modal" value="close">Close</button>
-                  </div>
-                </div>
-              </div>
-            </div>
-          </div>
-<!-- 4x4 -->
-          <div class="element-item itemIV overflow-hidden transition paid" data-category="transition paid">
-            <div class="d-block imgHolder w-100">
-              <a href="#" data-toggle="modal" data-target="#trailers"><img src="../../public/images/XTR1.jpg" class="img-fluid" alt="image description"></a>
-              <div class="overbgBTxt position-absolute">
-                <h3>
-                  <strong class="fwSemibold px-3 d-inline-block h4 d-block mb-0"><a href="javascript:void(0);">4x4 Teardrops</a></strong>
-                  <strong class="fontRoboto px-3 d-inline-block designType text-white">Paid Project</strong>
-                </h3>
-              </div>
-            </div>
-            <div class="modal fade" id="trailers">
-              <div class="modal-dialog modal-lg">
-                <div class="modal-content">
-                  <div class="modal-header"> 
-                    <div class="col span-1-of-2">
-                      <h2>4x4 Teardrops</h2>
-                      <h3>Offroad Teardrop Trailers</h3>
-                    </div>
-                    <div class="col span-1-of-2 date">
-                      <h4>May, 2021</h4>
-                    </div>
-                  </div>
-                  <div class="modal-body">
-                    <p>I was contracted to build a website in partnership with Vintage Trailer Works Inc. I built a static site using Vue.js. The client wanted to list all options and prices for each model. I created elements that display and hide the options when clicked using HTML and CSS. Midway through the build, the partner left the company and the project was left unfinished.</p>
-                    <a target="_blank" href="https://kirby-trailers.netlify.app/" >View Here</a>
-                  </div>
-                    <div class="row">
-                      <div class="col span-1-of-3">
-                        <h4>Skills Used</h4>
-                        <ul>
-                          <li>Vue.js</li>
-                          <li>Javascript</li>
-                          <li>HTML</li>
-                          <li>CSS</li>
-                          <li>Netflify</li>
-                          <li>Bootstrap</li>
-                        </ul>
-                      </div>
-                      <div class="col span-1-of-1">
-                        <img src="../../public/images/XTR1.jpg" class="img-fluid modal-img">
-                      </div>
-                    </div>
-                  <div class="modal-footer">
-                    <button class="btn btn-danger text-uppercase rounded-pill fwSemibold" data-dismiss="modal" value="close">Close</button>
-                  </div>
-                </div>
-              </div>
-            </div>
-          </div>
-<!-- Omnifood -->
-          <div class="element-item itemIV overflow-hidden transition project" data-category="transition project">
-            <div class="d-block imgHolder w-100">
-              <a href="#" data-toggle="modal" data-target="#omni"><img src="../../public/images/Omnifood.png" class="img-fluid" alt="image description"></a>
-              <div class="overbgBTxt position-absolute">
-                <h3>
-                  <strong class="fwSemibold px-3 d-inline-block h4 d-block mb-0"><a href="javascript:void(0);">Omnifood Project</a></strong>
-                  <strong class="fontRoboto px-3 d-inline-block designType text-white">Project</strong>
-                </h3>
-              </div>
-            </div>
-            <div class="modal fade" id="omni">
-              <div class="modal-dialog modal-lg">
-                <div class="modal-content">
-                  <div class="modal-header"> 
-                    <div class="col span-1-of-2">
-                      <h2>Udemy Project</h2>
-                      <h3>Omnifood</h3>
-                    </div>
-                    <div class="col span-1-of-2 date">
-                      <h4>May, 2021</h4>
-                    </div>
-                  </div>
-                  <div class="modal-body">
-                    <p>This was a front end project from Udemy practicing HTML, CSS and Javascript. I learned important CSS concepts such as the box model, positioning schemes, inheritance, solving selector conflicts, etc. I also learned how to use common components and layout patterns for professional website design and development. I used Modern CSS (previous CSS3), including flexbox and CSS Grid for layout. This was a 37 hour course.</p>
-                    <a target="_blank" href="https://creative-centaur-5208e2.netlify.app/" >View Here</a>
-                  </div>
-                  <div class="row">
-                    <div class="col span-1-of-1">
-                      <h4>Skills Used</h4>
-                      <ul>
-                        <li>Javascript</li>
-                        <li>HTML</li>
-                        <li>CSS</li>
-                        <li>Netflify</li>
-                      </ul>
-                    </div>
-                  </div>
-                  <div class="col span-2-of-3">
-                    <img src="../../public/images/omnifood.jpeg" class="img-fluid modal-img">
-                  </div>
-                  <div class="modal-footer">
-                    <button class="btn btn-danger text-uppercase rounded-pill fwSemibold" data-dismiss="modal" value="close">Close</button>
-                  </div>
-                </div>
-              </div>
-            </div>
-          </div>
-<!-- Courses -->
-          <div class="element-item itemIV overflow-hidden transition project" data-category="transition project">
-            <div class="d-block imgHolder w-100">
-              <a href="#" data-toggle="modal" data-target="#courses"><img src="../../public/images/courses.jpeg" class="img-fluid" alt="image description"></a>
-              <div class="overbgBTxt position-absolute">
-                <h3>
-                  <strong class="fwSemibold px-3 d-inline-block h4 d-block mb-0"><a href="javascript:void(0);">Courses Project</a></strong>
-                  <strong class="fontRoboto px-3 d-inline-block designType text-white">Project</strong>
-                </h3>
-              </div>
-            </div>
-            <div class="modal fade" id="courses">
-              <div class="modal-dialog modal-lg">
-                <div class="modal-content">
-                  <div class="modal-header"> 
-                    <div class="col span-1-of-2">
-                      <h2>Fullstack Courses Project</h2>
-                      <h3>Omnifood</h3>
-                    </div>
-                    <div class="col span-1-of-2 date">
-                      <h4>June/July, 2022</h4>
-                    </div>
-                  </div>
-                  <div class="modal-body">
-                    <p>This fullstack project uses Ruby on Rails as the backend and Vuejs as the frontend. This project shows in depth knowledge of backend development, frontend development, and database design. The user can choose a class to display enrolled students, and teachers. The user can choose a student or teacher to see enrolled classes.</p>
-                    <p>Students have many courses.</p>
-                    <p>Teachers have many courses.</p>
-                    <p>Courses have many teachers and many students.</p>
-                    <a target="_blank" href="https://courses-vue.herokuapp.com/" >View Here</a>
-                  </div>
-                  <div class="row">
-                    <div class="col span-1-of-1">
-                      <h4>Skills Used</h4>
-                      <ul>
-                        <li>Ruby on Rails</li>
-                        <li>Javascript</li>
-                        <li>HTML</li>
-                        <li>CSS</li>
-                        <li>APIs</li>
-                        <li>Database design</li>
-                        <li>Join Tables</li>
-                        <li>Bootstrap</li>
-                        <li>Heroku</li>
-                      </ul>
-                    </div>
-                  </div>
-                  <div class="col span-2-of-3">
-                    <img src="../../public/images/courses.jpeg" class="img-fluid modal-img">
                   </div>
                   <div class="modal-footer">
                     <button class="btn btn-danger text-uppercase rounded-pill fwSemibold" data-dismiss="modal" value="close">Close</button>
