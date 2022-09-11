@@ -244,16 +244,73 @@
             </div>
           </div>
         </div>
+
 <!-- gridFilterWrap -->
         <div class="gridFilterWrap d-flex flex-wrap">
-          <!-- Courses -->
+<!-- Dealerships -->
+          <div class="element-item itemIV overflow-hidden transition project" data-category="transition project">
+            <div class="d-block imgHolder w-100">
+              <a href="#" data-toggle="modal" data-target="#dealer"><img src="../../public/images/DealerLogin.jpg" class="img-fluid" alt="image description"></a>
+              <div class="overbgBTxt position-absolute">
+                <h3>
+                  <strong class="fwSemibold px-3 d-inline-block h4 d-block mb-0"><a href="javascript:void(0);">Dealership Project</a></strong>
+                  <strong class="fontRoboto px-3 d-inline-block designType text-white">Ruby on Rails / Javascript / Vuejs</strong>
+                </h3>
+              </div>
+            </div>
+            <div class="modal fade" id="dealer">
+              <div class="modal-dialog modal-lg">
+                <div class="modal-content">
+                  <div class="modal-header"> 
+                    <div class="col span-1-of-2">
+                      <h2>Dealership Project</h2>
+                      <h3>Authorization / Authentication</h3>
+                    </div>
+                    <div class="col span-1-of-2 date">
+                      <h4>September, 2022</h4>
+                    </div>
+                  </div>
+                  <div class="modal-body">
+                    <p>This is a fullstack project that uses Ruby on Rails for the backend and Vujs for the front end. The user can login as a manager to view inventory of the dealership that they are assigned to manage. The user can also login as a manufacturer to create users, dealerships and cars. Each user has specific permissions. A user can sell a car to add money to their dealership or view inventory of another dealership and request a transfer of a vehicle. This project shows in depth knowledge of database design, backend development, frontend development, authorization and authentication.</p>
+                    <a target="_blank" href="https://github.com/acnikzad/vue_dealerships/" >Frontend Github</a>
+                    <br>
+                    <a target="_blank" href="https://github.com/acnikzad/dealership/" >Backend Github</a>
+                  </div>
+                  <div class="row">
+                    <div class="col span-1-of-1">
+                      <h4>Skills Used</h4>
+                      <ul>
+                        <li>Ruby on Rails</li>
+                        <li>Javascript</li>
+                        <li>HTML</li>
+                        <li>CSS</li>
+                        <li>Database design</li>
+                        <li>Join Tables</li>
+                        <li>Bootstrap</li>
+                        <li>Authentication</li>
+                        <li>Authorization</li>
+                        <li>APIs</li>
+                      </ul>
+                    </div>
+                  </div>
+                  <div class="col span-2-of-3">
+                    <img src="../../public/images/CarIndex.jpg" class="img-fluid modal-img">
+                  </div>
+                  <div class="modal-footer">
+                    <button class="btn btn-danger text-uppercase rounded-pill fwSemibold" data-dismiss="modal" value="close">Close</button>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+<!-- Courses -->
           <div class="element-item itemIV overflow-hidden transition project" data-category="transition project">
             <div class="d-block imgHolder w-100">
               <a href="#" data-toggle="modal" data-target="#courses"><img src="../../public/images/courses.jpeg" class="img-fluid" alt="image description"></a>
               <div class="overbgBTxt position-absolute">
                 <h3>
                   <strong class="fwSemibold px-3 d-inline-block h4 d-block mb-0"><a href="javascript:void(0);">Courses Project</a></strong>
-                  <strong class="fontRoboto px-3 d-inline-block designType text-white">Ruby on Rails | Vuejs</strong>
+                  <strong class="fontRoboto px-3 d-inline-block designType text-white">Ruby on Rails / Javascript / Vuejs</strong>
                 </h3>
               </div>
             </div>
@@ -263,7 +320,6 @@
                   <div class="modal-header"> 
                     <div class="col span-1-of-2">
                       <h2>Fullstack Courses Project</h2>
-                      <h3>Omnifood</h3>
                     </div>
                     <div class="col span-1-of-2 date">
                       <h4>June/July, 2022</h4>
@@ -309,7 +365,7 @@
               <div class="overbgBTxt position-absolute">
                 <h3>
                   <strong class="fwSemibold px-3 d-inline-block h4 mb-0 d-block"><a href="javascript:void(0);">My Financial Sim</a></strong>
-                  <strong class="fontRoboto px-3 d-inline-block designType text-white">Vuejs</strong>
+                  <strong class="fontRoboto px-3 d-inline-block designType text-white">Javascript / Vuejs</strong>
                 </h3>
               </div>
             </div>
