@@ -254,7 +254,7 @@
               <div class="overbgBTxt position-absolute">
                 <h3>
                   <strong class="fwSemibold px-3 d-inline-block h4 d-block mb-0"><a href="javascript:void(0);">Dealership Project</a></strong>
-                  <strong class="fontRoboto px-3 d-inline-block designType text-white">Ruby on Rails / Javascript / Vuejs</strong>
+                  <strong class="fontRoboto px-3 d-inline-block designType text-white">Ruby on Rails | Javascript | Vuejs</strong>
                 </h3>
               </div>
             </div>
@@ -311,7 +311,7 @@
               <div class="overbgBTxt position-absolute">
                 <h3>
                   <strong class="fwSemibold px-3 d-inline-block h4 d-block mb-0"><a href="javascript:void(0);">Courses Project</a></strong>
-                  <strong class="fontRoboto px-3 d-inline-block designType text-white">Ruby on Rails / Javascript / Vuejs</strong>
+                  <strong class="fontRoboto px-3 d-inline-block designType text-white">Ruby on Rails | Javascript | Vuejs</strong>
                 </h3>
               </div>
             </div>
@@ -366,7 +366,7 @@
               <div class="overbgBTxt position-absolute">
                 <h3>
                   <strong class="fwSemibold px-3 d-inline-block h4 mb-0 d-block"><a href="javascript:void(0);">My Financial Sim</a></strong>
-                  <strong class="fontRoboto px-3 d-inline-block designType text-white">Javascript / Vuejs</strong>
+                  <strong class="fontRoboto px-3 d-inline-block designType text-white">Javascript | Vuejs</strong>
                 </h3>
               </div>
             </div>
@@ -417,7 +417,7 @@
               <div class="overbgBTxt position-absolute">
                 <h3>
                   <strong class="fwSemibold px-3 d-inline-block h4 d-block mb-0"><a href="javascript:void(0);">Public Potty Project</a></strong>
-                  <strong class="fontRoboto px-3 d-inline-block designType text-white">Ruby on Rails / Javascript / Vuejs / Google Maps</strong>
+                  <strong class="fontRoboto px-3 d-inline-block designType text-white">Ruby on Rails | Javascript | Vuejs | Google Maps</strong>
                 </h3>
               </div>
             </div>
@@ -475,7 +475,7 @@
               <div class="overbgBTxt position-absolute">
                 <h3>
                   <strong class="fwSemibold px-3 d-inline-block h4 d-block mb-0"><a href="javascript:void(0);">Omnifood Project</a></strong>
-                  <strong class="fontRoboto px-3 d-inline-block designType text-white">HTML/CSS</strong>
+                  <strong class="fontRoboto px-3 d-inline-block designType text-white">HTML | CSS</strong>
                 </h3>
               </div>
             </div>
@@ -523,7 +523,7 @@
               <div class="overbgBTxt position-absolute">
                 <h3>
                   <strong class="fwSemibold px-3 d-inline-block h4 mb-0 d-block"><a href="javascript:void(0);">Concrete Landscape Services</a></strong>
-                  <strong class="fontRoboto px-3 d-inline-block designType text-white">Vuejs</strong>
+                  <strong class="fontRoboto px-3 d-inline-block designType text-white">Vuejs | Bootstrap</strong>
                 </h3>
               </div>
             </div>
