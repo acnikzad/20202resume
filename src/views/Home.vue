@@ -250,7 +250,7 @@
 <!-- Dealerships -->
           <div class="element-item itemIV overflow-hidden transition project" data-category="transition project">
             <div class="d-block imgHolder w-100">
-              <a href="#" data-toggle="modal" data-target="#dealer"><img src="../../public/images/DealerLogin.jpg" class="img-fluid" alt="image description"></a>
+              <a href="#" data-toggle="modal" data-target="#dealer"><img src="../../public/images/CarIndex.jpg" class="img-fluid" alt="image description"></a>
               <div class="overbgBTxt position-absolute">
                 <h3>
                   <strong class="fwSemibold px-3 d-inline-block h4 d-block mb-0"><a href="javascript:void(0);">Dealership Project</a></strong>
@@ -359,7 +359,7 @@
               </div>
             </div>
           </div>
-          <!-- My Financial Sim -->
+<!-- My Financial Sim -->
           <div class="element-item itemIV overflow-hidden transition project" data-category="transition project">
             <div class="d-block imgHolder w-100">
               <a href="#" data-toggle="modal" data-target="#MFSModal"><img src="../../public/images/MFS2.png" class="img-fluid" alt="image description"></a>
