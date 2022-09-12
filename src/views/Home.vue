@@ -271,7 +271,7 @@
                     </div>
                   </div>
                   <div class="modal-body">
-                    <p>This is a fullstack project that uses Ruby on Rails for the backend and Vujs for the front end. The user can login as a manager to view inventory of the dealership that they are assigned to manage. The user can also login as a manufacturer to create users, dealerships and cars. Each user has specific permissions. A user can sell a car to add money to their dealership or view inventory of another dealership and request a transfer of a vehicle. This project shows in depth knowledge of database design, backend development, frontend development, authorization and authentication.</p>
+                    <p>This is a fullstack project that uses Ruby on Rails for the backend and Vuejs for the front end. The user can login as a dealership manager to view their dealerships inventory. The user can also login as a manufacturer to create users with login credentials, cars, dealerships and assign cars to dealerships. Each user has specific permissions. A user can sell a car to add money to their dealership budget or view inventory of another dealership and request a transfer of a vehicle. The detailed seeds file is designed to create 5 dealerships, 6 users, and 1,000 cars of random year, make, model, drivetrain, mileage, price and dealership. This project shows in depth knowledge of database design, backend development, frontend development, authorization and authentication.</p>
                     <a target="_blank" href="https://github.com/acnikzad/vue_dealerships/" >Frontend Github</a>
                     <br>
                     <a target="_blank" href="https://github.com/acnikzad/dealership/" >Backend Github</a>
