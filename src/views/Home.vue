@@ -265,6 +265,7 @@
                     <div class="col span-1-of-2">
                       <h2>Dealership Project</h2>
                       <h3>Authorization / Authentication</h3>
+                      <h4>Current Project - Unpublished</h4>
                     </div>
                     <div class="col span-1-of-2 date">
                       <h4>September, 2022</h4>
