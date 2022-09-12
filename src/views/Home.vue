@@ -410,6 +410,64 @@
               </div>
             </div>
           </div>
+<!-- Public Potty -->
+          <div class="element-item itemIV overflow-hidden transition project" data-category="transition project">
+            <div class="d-block imgHolder w-100">
+              <a href="#" data-toggle="modal" data-target="#publicpotty"><img src="../../public/images/PottyMap.jpg" class="img-fluid" alt="image description"></a>
+              <div class="overbgBTxt position-absolute">
+                <h3>
+                  <strong class="fwSemibold px-3 d-inline-block h4 d-block mb-0"><a href="javascript:void(0);">Public Potty Project</a></strong>
+                  <strong class="fontRoboto px-3 d-inline-block designType text-white">Ruby on Rails / Javascript / Vuejs / Google Maps</strong>
+                </h3>
+              </div>
+            </div>
+            <div class="modal fade" id="publicpotty">
+              <div class="modal-dialog modal-lg">
+                <div class="modal-content">
+                  <div class="modal-header"> 
+                    <div class="col span-1-of-2">
+                      <h2>Public Potty Project</h2>
+                      <h3>Google Maps / Authorization</h3>
+                      <h4>Current Project - Unpublished</h4>
+                    </div>
+                    <div class="col span-1-of-2 date">
+                      <h4>July, 2022</h4>
+                    </div>
+                  </div>
+                  <div class="modal-body">
+                    <p>This is a fullstack project that uses Ruby on Rails for the backend and Vuejs for the front end. The user can login, click on a public restroom using GoogleMaps and view the reviews. The user can also leave their own review for select restrooms. The seeds file contains all coordinates for the restrooms, and then is mapped onto the Google Maps component from the database. This project shows in depth knowledge of GoogleMaps API, backend development, frontend development, authorization and authentication.</p>
+                    <a target="_blank" href="https://github.com/acnikzad/publicp/" >Frontend Github</a>
+                    <br>
+                    <a target="_blank" href="https://github.com/acnikzad/vue_publicp/" >Backend Github</a>
+                  </div>
+                  <div class="row">
+                    <div class="col span-1-of-1">
+                      <h4>Skills Used</h4>
+                      <ul>
+                        <li>Ruby on Rails</li>
+                        <li>Javascript</li>
+                        <li>HTML</li>
+                        <li>CSS</li>
+                        <li>Database design</li>
+                        <li>Join Tables</li>
+                        <li>Bootstrap</li>
+                        <li>Authentication</li>
+                        <li>Authorization</li>
+                        <li>Google Maps</li>
+                        <li>APIs</li>
+                      </ul>
+                    </div>
+                  </div>
+                  <div class="col span-2-of-3">
+                    <img src="../../public/images/PottyReview.jpg" class="img-fluid modal-img">
+                  </div>
+                  <div class="modal-footer">
+                    <button class="btn btn-danger text-uppercase rounded-pill fwSemibold" data-dismiss="modal" value="close">Close</button>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
 <!-- Omnifood -->
           <div class="element-item itemIV overflow-hidden transition project" data-category="transition project">
             <div class="d-block imgHolder w-100">
