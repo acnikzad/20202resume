@@ -181,7 +181,7 @@
                   </div>
                 </div>
               </div>
-  <!-- Actualize -->
+  <!-- GVol -->
               <div class="col-12 col-sm-6 col-lg-4">
                 <div class="flip-container" ontouchstart="this.classList.toggle('hover');">
                   <div class="flipper">
@@ -194,20 +194,45 @@
                     </div>
                     <div class="back">
                       <h3>Genesis Volatility</h3>
-                       <p>Project Manager<br><b>2021 - Present</b></p>
+                       <p>Project Managern / Developer<br><b>2021 - Present</b></p>
                       <ul>
-                        <li>Link between founders and dev team</li>
-                        <li>Configures work flow</li>
-                        <li>Manages the dev team</li>
-                        <li>Researches processes</li>
+                        <li>Built pages and debugged with dev team (React/HTML/CSS/Javascript/Bootstrap)</li>
+                        <li>Works with team to implement new features</li>
+                        <li>Closely monitors and reports crypto transactions</li>
+                        <li>Works closely with accountants and attorneys to ensure accurate reporting</li>
                         <li>Networks with industry leaders</li>
-                        <li>Manages finances</li>
-                        <li>Monitors and reports crypto transactions</li>
+                        <li>Raised $3.1 million in series A round</li>
                       </ul>
                     </div>
                   </div>
                 </div>
               </div>
+              <!-- GVol -->
+              <!-- <div class="col-12 col-sm-6 col-lg-4">
+                <div class="flip-container" ontouchstart="this.classList.toggle('hover');">
+                  <div class="flipper">
+                    <div class="front">
+                      <div class="agnBlock overlay position-relative mb-4 mb-sm-6">
+                        <span class="imgHolder w-100 d-block">
+                          <img src="../../public/images/gvol-logo-3d.png" class="img-fluid" alt="image description">
+                        </span>  
+                      </div>
+                    </div>
+                    <div class="back">
+                      <h3>Genesis Volatility</h3>
+                       <p>Project Managern / Developer<br><b>2021 - Present</b></p>
+                      <ul>
+                        <li>Built pages and debugged with dev team (React/HTML/CSS/Javascript/Bootstrap)</li>
+                        <li>Works with team to implement new features</li>
+                        <li>Closely monitors and reports crypto transactions</li>
+                        <li>Works closely with accountants and attorneys to ensure accurate reporting</li>
+                        <li>Networks with industry leaders</li>
+                        <li>Raised $3.1 million in series A round</li>
+                      </ul>
+                    </div>
+                  </div>
+                </div>
+              </div> -->
             </div>
             <div class="row mb-3 mb-sm-5 mb-lg-7 mb-xl-9">
               <div class="col-12 col-lg-8 offset-lg-2 text-center">
