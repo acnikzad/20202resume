@@ -194,9 +194,10 @@
                     </div>
                     <div class="back">
                       <h3>Genesis Volatility</h3>
-                       <p>Project Managern / Developer<br><b>2021 - Present</b></p>
+                       <p>Front End Developer / Project Manager<br><b>2020 - Present</b></p>
                       <ul>
-                        <li>Built pages and debugged with dev team (React/HTML/CSS/Javascript/Bootstrap)</li>
+                        <li>Used Vue, Javascript, HTML/CSS, Bootstrap to create user interface</li>
+                        <li>Updates and maintains code</li>
                         <li>Works with team to implement new features</li>
                         <li>Closely monitors and reports crypto transactions</li>
                         <li>Works closely with accountants and attorneys to ensure accurate reporting</li>
