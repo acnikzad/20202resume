@@ -167,15 +167,15 @@
                     </div>
                     <div class="back">
                       <h3>Costco Wholesale</h3>
-                      <p>Morning Merchandising Manager<br><b>2005 - Present</b></p>
+                      <p>Morning Merchandising Manager<br><b>2005 - 2020</b></p>
                       <ul>
-                        <li>Manages 50+ employees daily</li>
-                        <li>Develops reports of sales figures and forecasts</li>
+                        <li>Managed 50+ employees daily</li>
+                        <li>Developed reports of sales figures and forecasts</li>
                         <li>Trusted to know current inventory and sales trends</li>
                         <li>Trusted to make decisions based on proper merchandising priciples</li>
-                        <li>Recruits, coaches, develops and leads a cohesive team</li>
-                        <li>Builds realtionships with buyers, vendors and local businesses</li>
-                        <li>Routinely pushes and meets sales benchmarks</li>
+                        <li>Recruited, coached, developed and lead a cohesive team</li>
+                        <li>Built realtionships with buyers, vendors and local businesses</li>
+                        <li>Routinely pushed and met sales benchmarks</li>
                       </ul>
                     </div>
                   </div>
