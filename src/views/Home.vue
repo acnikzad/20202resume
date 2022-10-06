@@ -198,9 +198,9 @@
                       <ul>
                         <li>Used Vue, Javascript, HTML/CSS, Bootstrap to create user interface</li>
                         <li>Updates and maintains code</li>
-                        <li>Works with team to implement new features</li>
+                        <li>Works with back end team to implement new analytic features</li>
                         <li>Closely monitors and reports crypto transactions</li>
-                        <li>Works closely with accountants and attorneys to ensure accurate reporting</li>
+                        <li>Works with accountants and attorneys to ensure accurate reporting</li>
                         <li>Networks with industry leaders</li>
                         <li>Raised $3.1 million in series A round</li>
                       </ul>
