@@ -125,8 +125,12 @@
                   </div>
                   <div class="back">
                     <h3>Udemy</h3>
-                     <p>Online Courses<br>Software Development - <b>Present</b></p>
+                     <p>Continued Learning<br>Software Development - <b>Present</b></p>
                     <ul>
+                      <li>Computer Science</li>
+                      <li>Redux</li>
+                      <li>NestJs</li>
+                      <li>Custom GPTs</li>
                       <li>Ruby on Rails</li>
                       <li>Javascript</li>
                       <li>HTML/CSS</li>
