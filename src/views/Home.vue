@@ -194,7 +194,7 @@
                     </div>
                     <div class="back">
                       <h3>Genesis Volatility</h3>
-                       <p>Front End Developer / Project Manager<br><b>2020 - Present</b></p>
+                       <p>Front End Developer / Project Manager<br><b>2020 - 2022</b></p>
                       <ul>
                         <li>Used Vue, Javascript, HTML/CSS, Bootstrap to create user interface</li>
                         <li>Updates and maintains code</li>
@@ -208,6 +208,34 @@
                   </div>
                 </div>
               </div>
+              <div class="col-12 col-sm-6 col-lg-4">
+                <div class="flip-container" ontouchstart="this.classList.toggle('hover');">
+                    <div class="flipper">
+                        <div class="front">
+                            <div class="agnBlock overlay position-relative mb-4 mb-sm-6 d-flex align-items-center justify-content-center">
+                                <span class="imgHolder w-100 d-block">
+                                    <img src="../../public/images/yellowbirdlogo.png" class="img-fluid" alt="image description">
+                                </span>  
+                            </div>
+                        </div>
+                        <div class="back">
+                            <h3>YellowBird</h3>
+                            <p>Full Stack Developer<br><b>2022 - Present</b></p>
+                            <ul>
+                                <li>Contributed to a fast-paced tech startup using React, Node.js, Docker, Redux, and NestJS</li>
+                                <li>Enhanced team communication with tools like Slack, Jira, Atlassian, and Confluence</li>
+                                <li>Integrated third-party APIs such as CometChat, Twilio, and LaunchDarkly to improve user experience</li>
+                                <li>Led the transition of backend infrastructure from Rails to NestJS for better performance</li>
+                                <li>Developed an on-platform messaging system for seamless communication among users</li>
+                                <li>Implemented an automatic standby list with Twilio and SendGrid notifications to save admin hours</li>
+                                <li>Designed custom saved filters for efficient database searches, saving significant time for the customer success team</li>
+                                <li>Created a dynamic jobs catalog with a complex pricing system similar to Excel</li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+              </div>
+
               <!-- GVol -->
               <!-- <div class="col-12 col-sm-6 col-lg-4">
                 <div class="flip-container" ontouchstart="this.classList.toggle('hover');">
@@ -237,10 +265,7 @@
             </div>
             <div class="row mb-3 mb-sm-5 mb-lg-7 mb-xl-9">
               <div class="col-12 col-lg-8 offset-lg-2 text-center">
-                <p>Through years of education, I discovered I leaned more left brain: a logical, linear and precise thinker. I value facts over holistic thinking. This is why I had a knack for mathematics. Math was always my strong point in high school and college, completing advanced courses such as Calc and Business Calc. Translating to the world of software development, I enjoy creating algorithms using logic and reason. The challenge of discovering a new perspective on a problem excites me as much as the learning process that ensues. 
-                  <br>
-                  <br>
-                Coding turned from an unknown foreign language, to an interest, to a skillset, to a passion and soon to be, a career.
+                <p>As a seasoned Full Stack Developer with expertise in React, Node.js, Vue, and Rails, I specialize in creating efficient and scalable web applications. My extensive experience spans both client-side and server-side technologies, ensuring seamless integration with third-party libraries and APIs. I am particularly passionate about building and training custom GPT models and exploring Web3 development as these industries are still in their infancy. I am eager to contribute my skills to a forward-thinking team that prioritizes high-quality solutions and continuous innovation using the latest technologies.
                 </p>
               </div>
             </div>
@@ -621,7 +646,7 @@
                     <a target="_blank" href="https://www.youtube.com/watch?v=9quKcQxq630&feature=youtu.be&t=2031" >Watch Demo Here</a>
                   </div>
                     <div class="row">
-                      <div class="col span-1-of-1">
+                      <div class="col span-1-of-3">
                         <h4>Skills Used</h4>
                         <ul>
                           <li>Ruby on Rails</li>
@@ -634,10 +659,11 @@
                           <li>Bootstrap</li>
                         </ul>
                       </div>
-                      <div class="col span-1-of-1">
+                      <!-- <div class="col span-1-of-3">
                         <img src="../../public/images/blockhound.jpg" class="img-fluid modal-img">
-                      </div>
+                      </div> -->
                     </div>
+                    <a href="" data-fancybox="gallery" data-caption="Mockup Can Design"><img src="../../public/images/blockhound.jpg" class="img-fluid" alt="image description"></a>
                   <div class="modal-footer">
                     <button class="btn btn-danger text-uppercase rounded-pill fwSemibold" data-dismiss="modal" value="close">Close</button>
                   </div>

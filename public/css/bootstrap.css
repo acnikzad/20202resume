@@ -14976,7 +14976,6 @@ a.text-dark:hover, a.text-dark:focus {
 }
 
 .hero-boxes:last-child {
-  text-align:;
   padding-right: 3%;
 }
 
@@ -15041,14 +15040,19 @@ html {
 /* hide back of pane during swap */
 .front, .back {
   backface-visibility: hidden;
-
   position: absolute;
   top: 0;
   left: 0;
 }
 
-.back a {
-  color: #CDC9C6;
+.back {
+  max-height: 480px; /* Adjust the height as needed */
+  overflow-y: auto;
+  padding: 10px;
+  background-color: rgba(255, 255, 255, 0); /* White with 80% opacity */
+}
+.back h3 {
+  margin-top: 0;
 }
 
 .back a:hover {
@@ -15060,6 +15064,11 @@ html {
   z-index: 2;
   /* for firefox 31 */
   transform: rotateY(0deg);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  /* height: 100%; */
+  
 }
 
 /* back, initially hidden pane */
