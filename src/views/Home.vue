@@ -18,11 +18,14 @@
                       <div class="icon-small">
                         <i class="devicon-ruby-plain"></i>
                         <i class="devicon-rails-plain"></i>
+                        <i class="devicon-react-plain"></i>
+                        <i class="devicon-redux-plain"></i>
                         <i class="devicon-vuejs-plain"></i>
+                        <i class="devicon-nodejs-plain"></i>
+                        <i class="devicon-docker-plain"></i>
                         <i class="devicon-javascript-plain"></i>
-                        <i class="devicon-css3-plain"></i>
+                        <i class="devicon-typescript-plain"></i>
                         <i class="devicon-html5-plain"></i>
-                        <i class="devicon-bootstrap-plain"></i>
                         <i class="devicon-github-plain"></i>
                       </div>
                     </div>
